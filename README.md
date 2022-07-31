@@ -1,4 +1,4 @@
-# Neocities-Website-for-BitD-Setting
+# Neocities Website
 
 The aim of this project is to a) learn HTML in order to b) get my custom Forged in the Dark setting uploaded as an easily accessible website via NeoCities.
 
