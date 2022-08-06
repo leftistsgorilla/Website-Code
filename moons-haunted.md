@@ -41,6 +41,14 @@ A session of _Moon's Haunted (Working Title)_ is like an episode of a TV show. T
 
 During a session, the crew of scoundrels works together to choose a score to accomplish, then they make a few dice rolls to jump into the action of the score in progress. The PCs take actions, suffer consequences, and finish the operation (succeed or fail). Then the crew has downtime, during which they recover, pursue side-projects, and indulge their vices. After downtime, the players once again look for a new opportunity or create their own goals and pursuits, and we play to find out what happens next.
 
+Touchstones
+-----------
+*Katana Zero* by Justin Stander. *Alien* by Ridley Scott. *Warhammer 40K* by Games Workshop. *Magic: the Gathering – New Phyrexia* by Wizard of the Coast. *Annihilation* by Jeff VanderMeer. *The City of Ember* by Jeanne DuPrau. *The Matrix* by the Wachowski Sisters. *Minority Report* by Steven Spielberg. *Snowpiercer* by Bong-Joon Ho. *Bioshock* by 2K Boston. *Neon Genesis Evangelion* by Hideaki Anno. *The Expanse* by James S. A. Corey. *1984* by George Orwell. *Paranoia* by West End Games.
+
+Theme Song
+----------
+*Haifisch* by Rammstein.
+
 The Core System
 ===============
 
