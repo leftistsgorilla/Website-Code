@@ -1,5 +1,7 @@
 # *Moon's Haunted (Working Title)*
 
+![A screencap of a tweet by @dustinkcouch reading: "nasa employee: oh hey you guys are back early. astronaut: moon's haunted. nasa employee: what? astronaut: *loading a pistol and getting back on the rocket-ship* moon's haunted"](/images/tweet.jpg "moon's haunted tweet")
+
 ## The Basics
 
 ### The Game
@@ -182,7 +184,7 @@ When you Tinker, you fiddle with devices and mechanisms.
 
 *You might create a new gadget or alter an existing item. You might pick a lock or crack a safe. You might disable an alarm or trap. You might turn the clockwork and electroplasmic devices around the city to your advantage. You could try to use your technical expertise to control a vehicle (but Finessing might be better).*
 
-When you Wreck, you unleash savage force.
+When you Wreck, you unleash brutal force.
 
 *You might smash down a door or wall with a sledgehammer, or use an explosive to do the same. You might employ chaos or sabotage to create a distraction or overcome an obstacle. You could try to overwhelm an enemy with sheer force in battle (but Skirmishing might be better).*
 
@@ -287,7 +289,7 @@ The PCs may also directly affect NPC faction clocks, based on the missions and s
 
 When a player character does something challenging, we make an **action roll** to see how it turns out. An action is challenging if there’s an obstacle to the PC’s goal that’s dangerous or troublesome in some way. We don’t make an action roll unless the PC is put to the test. If their action is something that we’d expect them to simply accomplish, then we don’t make an action roll.
 
-*Each game group will have their own ideas about what “challenging” means. This is good! It’s something that establishes the tone and style of your Blades series.*
+*Each game group will have their own ideas about what “challenging” means. This is good! It’s something that establishes the tone and style of your Moon's Haunted (Working Title) series.*
 
 To make an action roll, we go through six steps. In play, they flow together somewhat, but let’s break each one down here for clarity.
 
@@ -692,7 +694,7 @@ Turf is marked on your rep tracker (see the example below). Each piece of turf y
 
 @TODO table p37
 
-Also, when you acquire turf, you expand the scope of your crew’s **hunting grounds**.
+Also, when you acquire turf, you expand the scope of your crew’s **haunting grounds**.
 
 ### Reducing hold
 
@@ -797,7 +799,7 @@ Of course, you’ll also have your specializations and skills, the qualities tha
 
 ### Create playbooks
 
-A playbook is what we call the sheet with all the specific rules to play a certain character type in a Blades-powered game. For example, you might create a playbook called a **Soldier**, with special abilities related to battle, or a playbook called a **Medic**, with special abilities related to field medicine.
+A playbook is what we call the sheet with all the specific rules to play a certain character type in a *Moon's Haunted (Working Title)* game. For example, you might create a playbook called a **Soldier**, with special abilities related to battle, or a playbook called a **Medic**, with special abilities related to field medicine.
 
 When you choose a playbook, you’re choosing a set of **special abilities** (which give your character ways to break the rules in various ways) and a set of **xp triggers** (which determine how you earn experience for character advancement). But every playbook represents a scoundrel at heart. The Cutter has special abilities related to combat, but that doesn’t mean they’re “the fighter” of the game. Any character type can fight well. Think of your playbook as an area of focus and preference, but not a unique skill set.
 
@@ -960,7 +962,7 @@ You can **push yourself** to do one of the following: *perform a feat of physica
 >
 > If you perform a feat that verges on the superhuman, you might break a metal weapon with your bare hands, tackle a galloping horse, lift a huge weight, etc. If you engage a small gang on equal footing, you don’t suffer reduced effect due to scale against a small gang (up to six people).
 
-### Savage
+### Brutal
 
 When you unleash physical violence, it’s especially frightening. When you Command a frightened target, take **+1d**.
 
@@ -1180,8 +1182,7 @@ You may expend your **special armor** to resist a supernatural consequence, or t
 
 > When you use this ability, tick the special armor box on your playbook sheet. If you resist a consequence, this ability negates or reduces its severity. If you use this ability to push yourself, you get one of the benefits (+1d, +1 effect, act despite severe harm) but you don’t take 2 stress. Your special armor is restored at the beginning of downtime.
 
-Character items
----------------
+### Character items
 
 Add a list of five distinctive items that are either Fine (+1 quality), light (reduced load), rare, or otherwise specific to this character.
 
@@ -1189,10 +1190,9 @@ Some examples include: Weapons, clothes, arcane impliments, specialized tools, c
 
 ## Crew Creation
 
-Choose a crew type
-------------------
+### Choose a crew type
 
-Each Blades-powered game should have crew types that suit its setting and premise. These might be organizations, gangs, ships, strongholds, etc. Three to six options are good.
+Each *Moon's Haunted (Working Title)* game should have crew types that suit its setting and premise. These might be organizations, gangs, ships, strongholds, etc. Three to six options are good.
 
 Your crew type determines the scores that you’ll focus on, as well as a selection of special abilities that support that kind of action. The crew type isn’t meant to be restrictive—a crew of smugglers might sometimes engage in extortion or sell contraband —but the core activity of the crew type is the most frequent way they earn coin and xp for advancement.
 
@@ -1200,8 +1200,7 @@ Like a character playbook, your crew type is also how you’re known in the unde
 
 Your crew begins with 2 coin in its coffers (the remains of the PCs’ savings). You are **Tier 0**, with **strong hold** and **0** rep.
 
-Choose an initial reputation & lair
------------------------------------
+### Choose an initial reputation & lair
 
 Your crew has just formed and acquired a lair. Given this group of characters and their previous escapades, what initial **reputation** would you have among the factions of the underworld? Choose one from the list at right (or create your own).
 
@@ -1218,30 +1217,27 @@ You earn xp when you bolster your crew’s reputation, so think of this as anoth
 
 Also, talk about where the crew makes its **lair**. You begin at Tier 0, so it’s probably a very modest or abandoned sort of place.
 
-Establish your hunting grounds
-------------------------------
+Establish your haunting grounds
 
-Your crew is brand-new, but you have chosen some small part of a district as your **hunting grounds**. This is the area that you usually target for your scores, and you know it well. Your hunting grounds don’t have to be in the same district as your lair. The area is small, only three or four city blocks—but it’s still an intrusion on someone. The entire city is divided among larger, stronger factions. The GM will tell you which faction claims the area, then you decide how to deal with them:
+Your crew is brand-new, but you have chosen some small part of a district as your **haunting grounds**. This is the area that you usually target for your scores, and you know it well. Your haunting grounds don’t have to be in the same district as your lair. The area is small, only three or four city blocks—but it’s still an intrusion on someone. The entire city is divided among larger, stronger factions. The GM will tell you which faction claims the area, then you decide how to deal with them:
 
 * Pay them off. Give them 1 coin in exchange for giving you room to work.
 * Pay the faction 2 coin as a show of respect and gain **+1 status** with them.
 * Keep your money and take **\-1 status** with that faction.
 
-Your hunting grounds are useful for a particular type of criminal operation. Each crew type has a list of different operation types for their hunting grounds. For instance, Assassins have *Accident*, *Disappearance*, *Murder*, or *Ransom* as options. Choose one of these operation types as your preference.
+Your haunting grounds are useful for a particular type of criminal operation. Each crew type has a list of different operation types for their haunting grounds. For instance, Assassins have *Accident*, *Disappearance*, *Murder*, or *Ransom* as options. Choose one of these operation types as your preference.
 
-When you prepare to execute an operation of your preferred type on your hunting grounds, you get **+1d** to any **gather information** rolls and a free additional **downtime activity** to contribute to that operation. This can help you discover an opportunity, acquire an asset you might need for the job, find an appropriate client, etc.
+When you prepare to execute an operation of your preferred type on your haunting grounds, you get **+1d** to any **gather information** rolls and a free additional **downtime activity** to contribute to that operation. This can help you discover an opportunity, acquire an asset you might need for the job, find an appropriate client, etc.
 
-When you acquire **turf** you also expand the size and/or type of your hunting grounds. Detail the new area and/or methods with help from the GM.
+When you acquire **turf** you also expand the size and/or type of your haunting grounds. Detail the new area and/or methods with help from the GM.
 
-Choose a special ability
-------------------------
+### Choose a crew ability
 
 Take a look at the special abilities for your crew and choose one. If you can’t decide which one to pick, go with the first one on the list—it’s placed there as a good default choice. It’s important to pick a special ability that everyone is excited about. You can get more special abilities in the future by earning xp.
 
-Just like picking the crew type, reputation, lair, and hunting grounds, choosing a special ability is another chance to focus the game down to a more specific range of possibilities. That’s a lot to work with, and it helps get the game going in a strong direction from the very beginning.
+Just like picking the crew type, reputation, lair, and haunting grounds, choosing a special ability is another chance to focus the game down to a more specific range of possibilities. That’s a lot to work with, and it helps get the game going in a strong direction from the very beginning.
 
-Assign crew upgrades
---------------------
+### Assign crew upgrades
 
 An upgrade is a valuable asset that helps the crew in some way, like a boat or a gang (see the complete descriptions on the following page). Each crew type has two pre-selected **upgrades** that suit that crew (like **Prowess** **Training** and a **gang** of Thugs for the Bravos crew).
 
@@ -1254,8 +1250,7 @@ When you assign your two upgrades, the GM will tell you about two factions that 
 
 You’ll be able get more upgrades in the future by earning xp
 
-Choose a favorite contact
--------------------------
+### Choose a favorite contact
 
 Take a look at your list of potential contacts on the crew sheet. Choose one contact who is a close friend, long-time ally, or partner in crime. The GM will tell you about two factions that are impacted by your choice:
 
@@ -1264,8 +1259,7 @@ Take a look at your list of potential contacts on the crew sheet. Choose one con
 
 At your option, these factions are even more concerned with this contact and so you take **+2** and **\-2 status** instead.
 
-Crew upgrade Examples
----------------------
+### Crew upgrade Examples
 
 * Boat house: You have a boat, a dock on a waterway, and a small shack to store boating supplies. A second upgrade improves the boat with armor and more cargo capacity.
 * Carriage House: You have a carriage, and draft animals to pull it, and a stable. A second upgrade improves the carriage with armor and larger, swifter steeds.
@@ -1279,8 +1273,7 @@ Crew upgrade Examples
 * Vault: Your lair has a secure vault, increasing your storage capacity for coin to 8. A second upgrade increases your capacity to 16. A separate part of your vault can be used as a holding cell.
 * Workshop: Your lair has a workshop appointed with tools for tinkering and alchemy, as well as a small library of books, documents, and maps. You may accomplish long-term projects with these assets without leaving your lair.
 
-Cohorts
--------
+### Cohorts
 
 A **cohort** is a **gang** or an **expert** who works for your crew. To recruit a new cohort, spend **two upgrades** and create them using the process below.
 
@@ -1310,17 +1303,17 @@ An expert has **quality** equal to your current crew Tier +1. Their scale is alw
 
 When you create a cohort, give them one or two **edges** and an equal number of **flaws**.
 
-**Edges**
+#### Edges
 
 * **Fearsome:** The cohort is terrifying in aspect and reputation.
 * **Independent:** The cohort can be trusted to make good decisions and act on their own initiative in the absence of direct orders.
 * **Loyal:** The cohort can’t be bribed or turned against you.
 * **Tenacious:** The cohort won’t be deterred from a task.
 
-**Flaws**
+### Flaws
 
 * **Principled:** The cohort has an ethic or values that it won’t betray.
-* **Savage:** The cohort is excessively violent and cruel.
+* **Brutal:** The cohort is excessively violent and cruel.
 * **Unreliable:** The cohort isn’t always available, due to other obligations, stupefaction from their vices, etc.
 * **Wild:** The cohort is drunken, debauched, and loud-mouthed.
 
@@ -1328,7 +1321,7 @@ When you create a cohort, give them one or two **edges** and an equal number of 
 
 You can add an **additional type** to a gang or expert by spending two crew upgrades. When a cohort performs actions for which its types apply, it uses its full quality rating. Otherwise, its quality is zero. A given cohort can have up to two types.
 
-### Using a cohort
+### Using a Cohort
 
 When you send a cohort to achieve a goal, roll their **quality** to see how it goes. Or, a PC can oversee the maneuver by leading a **group action**. If you direct the cohort with orders, roll Command. If you participate in the action alongside the cohort, roll the appropriate action. The quality of any opposition relative to the cohort’s quality affects the position and effect of the action.
 
@@ -1336,8 +1329,7 @@ When you send a cohort to achieve a goal, roll their **quality** to see how it g
 >
 > The next day, the crew boss goes back and leads a group action, rolling her 3d in Skirmish alongside the Thugs’ 2d. The boss gets a 6 this time—they beat the tar out of the other gang and send them packing (at least for now).
 
-Cohort harm & Healing
----------------------
+### Cohort Harm & Healing
 
 Cohorts suffer harm similarly to PCs. A cohort can suffer four levels of harm:
 
@@ -1350,67 +1342,64 @@ All of your cohorts heal during downtime. If circumstances are amenable for reco
 
 If a cohort is destroyed, it may be replaced. Spend coin equal to your Tier +2 to restore it, plus two downtime activities to recruit new gang members, or hire a new expert.
 
-Crew creation summary
----------------------
+### Crew Creation Summary
 
 @TODO dropcaps
 
-1**Choose a crew type.** The crew type determines the group’s purpose, their special abilities, and how they advance.
+1\. **Choose a crew type.** The crew type determines the group’s purpose, their special abilities, and how they advance.
 
 You begin at **Tier 0**, with **strong hold** and 0 rep. You start with 2 coin.
 
-2 **Choose an initial reputation and lair.** Choose how other underworld factions see you:*Ambitious—Brutal—Daring—Honorable—Professional—Savvy—Subtle—Strange.* Look at the map and pick a district in which to place your lair. Describe the lair.
+2\. **Choose an initial reputation and lair.** Choose how other underworld factions see you:*Ambitious—Brutal—Daring—Honorable—Professional—Savvy—Subtle—Strange.* Look at the map and pick a district in which to place your lair. Describe the lair.
 
-3 **Establish your hunting grounds.** Look at the map and pick a district in which to place your hunting grounds. Decide how to deal with the faction that claims that area.
+3\. **Establish your haunting grounds.** Look at the map and pick a district in which to place your haunting grounds. Decide how to deal with the faction that claims that area.
 
 * Pay them 1 coin.
 * Pay them 2 coin. Get **+1 status**.
 * Pay nothing. Get **\-1 status**.
 
-4 **Choose a special ability.** They’re in the gray column in the middle of the crew sheet. If you can’t decide, choose the first ability on the list. It’s placed there as a good first option.
+4\. **Choose a special ability.** They’re in the gray column in the middle of the crew sheet. If you can’t decide, choose the first ability on the list. It’s placed there as a good first option.
 
-5 **Assign crew upgrades.** Your crew has two upgrades pre-selected. Choose two more. If your crew has a cohort, follow the procedure to create it. Record the faction status changes due to your upgrades:
+5\. **Assign crew upgrades.** Your crew has two upgrades pre-selected. Choose two more. If your crew has a cohort, follow the procedure to create it. Record the faction status changes due to your upgrades:
 
 * One faction helped you get an upgrade. Take **+1 status** with them. Or spend 1 coin for **+2 status** instead.
 * One faction was harmed when you got an upgrade. Take **\-2 status** with them. Or spend 1 coin for **\-1 status** instead.
 
-6 **Choose a favorite contact.** Mark the one who is a close friend, long-time ally, or partner in crime. Record the faction status changes related to your contact:
+6\. **Choose a favorite contact.** Mark the one who is a close friend, long-time ally, or partner in crime. Record the faction status changes related to your contact:
 
 * One faction is friendly with your contact. Take **+1 status** with them.
 * One faction is unfriendly with your contact. Take **\-1 status** with them.
 
 At your option, increase the intensity of the factions’ relationship with your contact and take **+2** and **\-2 status**, instead.
 
-## Crew playbook
+## Crew Playbook
 
-**Short description of Crew**
+### Short Description of Crew
 
 You’re professional murderers—death is your business.
 
-**Add xp trigger. When you play this crew, you earn xp when you execute a successful operation of a few specific types.** Some examples include: murder, ransom, battle extortion, sabotage, product supply or sale, espionage, theft, acquiring new contraband or sources.
+### Add XP Trigger
+
+When you play this crew, you earn xp when you execute a successful operation of a few specific types.** Some examples include: murder, ransom, battle extortion, sabotage, product supply or sale, espionage, theft, acquiring new contraband or sources
 
 *Add questions to personalize the crew. How is the crew distinguished from other similar crews?*
 
-Starting upgrades
------------------
+### Starting upgrades
 
 * First upgrade
 * Second upgrade
 
-Favored Operations
-------------------
+### Favored Operations
 
 A list of operation types that the crew may perform. Some possibilities include: murder, ranson, extortion, sabotage, aquisition, consecration, sacrifice, sale, supply, show of force, sociailize, burglary, espionage, robbery, smuggling arms, smuggling contraband, or smuggling passengers.
 
-Contacts
---------
+### Contacts
 
 A list of five possible contacts for thew crew, along with descriptions of each. Some possibilities include: a gang boss, a deal broker, a noble, a bounty hunter, a merchant, a blacksmith, a physicker, a ward boss, a taver owner, an academic, an occultist, a magistrate, a dillettante, an explorer, a collector, an arms dealer, a drug dealer, an anarchist, or a dock worker.
 
 Questions can inlclue how you know the friend, what they’ve done for you, what you do for them, and what kind of relationship you have.
 
-Crew upgrades
--------------
+### Crew upgrades
 
 A list of five upgrades specific to the crew. Some examples:
 
@@ -1482,8 +1471,7 @@ Tavern: You get **+1d** to Consort and Sway rolls on-site. *Some booze and frien
 
 Side Business: Any time during downtime, roll dice equal to your Tier. You earn coin equal to the highest result, minus your heat. *What kind of legitimate business is this? How do you get paid in secret?*
 
-Crew special abilities
-----------------------
+### Crew special abilities
 
 Create seven special abilities for your crew. Here are several examples.
 
@@ -1569,7 +1557,7 @@ During **downtime**, one of your **cohorts** may perform a downtime activity for
 
 During **downtime**, take **\-1** heat. When your heat is 4 or less, you get **+1d** to deceive people when you pass yourselves off as ordinary citizens.
 
-# The Score
+## The Score
 
 *Murder for hire, brutal extortion, dark rituals, illicit deals, smuggling runs, thievery in the shadows—the only chances left for those pushed to the margins and denied the privileges of the corrupt and predatory elite.*
 
@@ -1597,18 +1585,15 @@ There are six different plans, each with a missing **detail** you need to provid
 
 @TODO Add table p79
 
-The Detail
-----------
+### The Detail
 
 When you choose a plan, you provide a missing **detail**, like the point of attack, social connection, etc. If you don’t know the detail, you can **gather information** in some way to discover it.
 
-Item Loadouts
--------------
+### Item Loadouts
 
 After the plan and detail are in place, each player chooses their character’s **load**. This indicates how much stuff they’re carrying on the operation. They don’t have to select individual items—just the maximum amount they’ll have access to during the action.
 
-Engagement Roll
----------------
+### Engagement Roll
 
 Once the players choose a plan and provide its detail, the GM cuts to the action—describing the scene as the crew starts the operation and encounters their first obstacle. But how is this established? The way the GM describes the starting situation can have a huge impact on how simple or troublesome the operation turns out to be. Rather than expecting the GM to simply “get it right” each time, we use a dice roll instead. This is the **engagement roll**.
 
@@ -1647,8 +1632,7 @@ When you describe the situation after the roll, use the details of the target to
 
 The engagement roll determines the starting position for the PCs’ actions. How long does that hold? Does the situation stay desperate? No. Once the initial actions have been resolved, you follow the normal process for establishing position for the rest of the rolls during the score. The engagement roll is a quick short-hand to kick things off and get the action started—it doesn’t have any impact after that.
 
-Linked Plans
-------------
+### Linked Plans
 
 Sometimes an operation seems to call for a couple of plans linked together. A common scenario is a team that wants a two-pronged approach. “You create a diversion at the tavern, and when they send thugs over there, we’ll break into their lair.” There are two ways to handle this.
 
@@ -1657,8 +1641,7 @@ Sometimes an operation seems to call for a couple of plans linked together. A co
 
 Either approach is fine. It’s usually a question of interest. Is the linked plan idea interesting enough on its own to play out moment by moment? Is it required for the second plan to make sense? If so, make it a separate operation. If not, just use a setup maneuver.
 
-Flashbacks
-----------
+### Flashbacks
 
 The rules don’t distinguish between actions performed in the present moment and those performed in the past. When an operation is underway, you can invoke a **flashback** to roll for an action in the past that impacts your current situation. Maybe you convinced the district Watch sergeant to cancel the patrol tonight, so you make a Sway roll to see how that went.
 
@@ -1710,15 +1693,11 @@ A flashback isn’t time travel. It can’t “undo” something that just occur
 >
 > “I did it. I’ll roll Tinker to set the fuse just right. Hopefully.”
 
-Giving up on a score
---------------------
+### Giving up on a score
 
 When you give up on a score, you go into **downtime**. Follow the phases for downtime presented in the next chapter. You’ll usually have zero **payoff**, since you didn’t accomplish anything. You’ll still face heat and **entanglements** as usual.
 
 ## Teamwork
-
-Teamwork
---------
 
 When the team of PCs works together, the characters have access to four special **teamwork maneuvers**. They’re listed at the bottom of the character playbook sheets to help remind the players of them. The four maneuvers are:
 
@@ -1729,7 +1708,7 @@ When the team of PCs works together, the characters have access to four special 
 
 ### Assist
 
-When you assist another player who’s rolling, describe what your character does to help. Take 1 stress and give them **+1d** to their roll. You might also suffer any consequences that occur because of the roll, depending on the circumstances. Only one character may assist a given roll. _If you really want to help and someone else is already assisting, consider performing a **setup** maneuver instead._
+When you assist another player who’s rolling, describe what your character does to help. Take 1 stress and give them **+1d** to their roll. You might also suffer any consequences that occur because of the roll, depending on the circumstances. Only one character may assist a given roll. *If you really want to help and someone else is already assisting, consider performing a **setup** maneuver instead.*
 
 A character may assist a group action, but only if they aren’t taking part in it directly. You decide which character in the group action gets the bonus die.
 
@@ -1763,8 +1742,7 @@ Since a setup action can increase the effect of follow-up actions, it’s also u
 
 > The PCs are facing a heavily armored carriage that’s immune to their weapons. Aldo uses Wreck as a setup action to pry some of the armor loose with his crowbar, giving follow up actions +1 effect—going from zero to limited effect.
 
-Do We Have to Use Teamwork?
----------------------------
+### Do We Have to Use Teamwork?
 
 Teamwork maneuvers are options, not requirements. Each character can still perform solo actions as normal during an operation. If your character can’t communicate or somehow coordinate with the rest of the team, you can’t use or benefit from any teamwork maneuvers.
 
@@ -1810,7 +1788,7 @@ Most districts have crime bosses that expect smaller crews to pay a tithe from t
 
 You can set the scene and play out a meeting with a client or patron who’s paying the crew if there’s something interesting to explore there. If not, just gloss over it and move on to the next part of downtime.
 
-GM, definitely don’t screw around with the players when it comes to the payoff. Don’t say that the client lied and there’s no reward. Or that the meeting for the payment is actually a trap, or whatever. These types of things are staples of crime fiction, but in *Blades*, the PCs have enough problems coming at them from every direction already. When it comes to getting paid, just give them what they earned.
+GM, definitely don’t screw around with the players when it comes to the payoff. Don’t say that the client lied and there’s no reward. Or that the meeting for the payment is actually a trap, or whatever. These types of things are staples of crime fiction, but in *Moon's Haunted (Working Title)*, the PCs have enough problems coming at them from every direction already. When it comes to getting paid, just give them what they earned.
 
 ## Heat
 
@@ -1833,8 +1811,7 @@ The higher your wanted level, the more serious the response when law enforcement
 
 Also, your wanted level contributes to the severity of the **entanglements** that your crew faces after a score. See page 94 for details.
 
-Incarceration
--------------
+### Incarceration
 
 The only way to reduce your crew’s wanted level is through incarceration. When one of your crew members, friends, contacts—or a framed enemy—is convicted and incarcerated for crimes associated with your crew, your wanted level is reduced by 1 and you clear your heat.
 
@@ -1852,8 +1829,7 @@ Incarceration is dehumanizing and brutal. The renown of your crew is your only r
 
 @TODO add table p92
 
-Prison claims
--------------
+### Prison claims
 
 @TODO add table p93
 
@@ -2043,15 +2019,13 @@ Visit your **vice purveyor** to relieve **stress**. See the next section for det
 
 @TODO add table p101
 
-Stress Relief
--------------
+### Stress Relief
 
 Your characters are a special lot. They defy the powers-that-be and dare to prey on those who are considered to be their betters. They push themselves further than ordinary people are willing to go. But this comes at a cost. Their life is one of constant stress. Inevitably, each turns to the seduction of a **vice** in order to cope.
 
 A character’s vice is their obsession. But with this indulgence comes relief from stress and the ability to once again face the overwhelming challenge of their daring life.
 
-Indulging Your Vice
--------------------
+### Indulging Your Vice
 
 When you indulge your vice, you clear some stress from your character’s stress track. Say how your character indulges their vice, including which **purveyor of vice** they use to satisfy their needs. This indulgence takes time, so it can only be done when the crew has **downtime**. Alternately, you may choose to release your character to be “lost in their vice” during a game session, allowing them to indulge off-camera while you play a different PC. A gang member, friend, or contact of the crew might be created as an alternate character to play, thus fleshing out the landscape of PCs.
 
@@ -2078,8 +2052,7 @@ If you do not or cannot indulge your vice during a downtime phase, you take stre
 
 Along with your character’s heritage and background, their vice tells us what kind of person they are. This obsession impacts their motivations, goals, and behavior. When you ponder what your character might do or say next, you can always consider their vice to help you think of something. As an added benefit, by playing to the nature of your character’s vice, you earn xp at the end of the session.
 
-NPC & faction downtime
-----------------------
+### NPC & faction downtime
 
 NPCs and factions also do things when the PCs have downtime. The GM **advances their project clocks** and chooses a downtime maneuver or two for each faction that they’re interested in at the moment. Choose any maneuver that makes sense for that faction to pursue. For example:
 
@@ -2096,8 +2069,7 @@ If you’re not sure how far to progress a faction’s clock, make a fortune rol
 
 When factions do things that are known in the criminal underworld, **tell the players about it** through one of their **friends** or **contacts** or **vice purveyors**. These rumors and bits of gossip can lead to future scores and opportunities for the PCs.
 
-Downtime Activities Summary
----------------------------
+### Downtime Activities Summary
 
 @TODO add tables p102
 
@@ -2125,13 +2097,11 @@ This table can also be used as a guide to **quality level** when a PC **acquires
 
 To enact a ritual is to come into contact with these abyssal forces and entreat them to do your will. It is a practice not without considerable risk.
 
-Finding a ritual source
------------------------
+### Finding a ritual source
 
 A PC with the Ritual special ability begins with one known ritual, already learned (answer the questions below to create it). To learn a new ritual, a PC must first find a **source**. A source may be secured as payoff from a score—perhaps you steal a ritual book when your crew robs the Museum of Antiquities. You might also secure a source as the goal of a long-term project—by consorting with cultist friends, studying ancient texts, or some other method you devise.
 
-Learning a ritual
------------------
+### Learning a ritual
 
 Once the source of a ritual is found, you may undertake a long-term project to learn the ritual. Most rituals will require an 8-segment progress clock to learn. The player and the GM answer questions about the ritual to define what it will do in play and what is required to perform it (see below). The player records these answers in their notes for future reference.
 
@@ -2149,8 +2119,7 @@ Once the source of a ritual is found, you may undertake a long-term project to l
 >
 > Player: “Gotcha. My new fear is what will happen if the spirits figure out where the ward came from and turn their vengeance on me, instead.”
 
-Performing a Ritual
--------------------
+### Performing a Ritual
 
 To perform a ritual, you must have the Ritual special ability, then follow the method outlined by the answers to the ritual questions. Most rituals will take **one downtime activity** to complete, though the GM may call for two (or more) downtime activities for very powerful or far-reaching rituals. Some rituals may be partially performed during downtime and then fully manifested at-will later by completing the last incantation or ritual action. In this case, simply make a note that the ritual has been “primed” and may be unleashed at a later time.
 
@@ -2168,8 +2137,7 @@ Each performance of a ritual is a unique event, and may not always work the same
 
 During downtime, a PC can Tinker with special materials and tools to produce strange **alchemicals**, **build** (or **modify) items**, create **spark-craft** gadgets, or enchant **arcane** implements or weapons. The system for each method is similar, with different details depending on the nature of the project.
 
-Inventing
----------
+### Inventing
 
 To invent a formula for a new alchemical concoction or the plan for a new item of your design, you need to Study it as a **long-term project**. Most new formulas or designs will require an 8-segment progress clock to invent and learn. The player and the GM answer questions about the invention to define what it will do in play and what is required to create it (see below). The player records these answers in their notes for future reference.
 
@@ -2186,14 +2154,13 @@ Once you’ve invented a formula or design, you can **craft** it by using a down
 
 Common alchemicals (see **Sample Creations** on page 226) and ordinary items don’t require special formulas or designs to learn. Anyone may attempt to craft them by using commonly available instructions.
 
-Crafting
---------
+### Crafting an item
 
 @TODO add table p109
 
 To craft something, spend one **downtime activity** to make a Tinker roll to determine the **quality level** of the item you produce. The base quality level is equal to your crew’s Tier, modified by the result of the roll (see the results on the next page).
 
-The results are based on your crew’s Tier because it indicates the overall quality of the workspace and materials you have access to. _If you do the work with the **Workshop** upgrade for your crew, your effective Tier level is one higher for this roll._
+The results are based on your crew’s Tier because it indicates the overall quality of the workspace and materials you have access to. *If you do the work with the **Workshop** upgrade for your crew, your effective Tier level is one higher for this roll.*
 
 The GM sets a **minimum quality** level that must be achieved to craft the item, based on the **magnitude** of the effect(s) it produces. The GM uses magnitude as a *guideline* for setting the quality level—it may be higher or lower at their discretion to better describe the nature of the project. An item may be crafted at *higher* quality if the player wishes to attempt it.
 
