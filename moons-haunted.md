@@ -1844,7 +1844,7 @@ Political pressures of various sorts can be applied to the magistrates and warde
 
 ### Smuggling
 
-You arrange smuggling channels inside. You have **+**2 load\*\* while incarcerated, (starting from zero as a prisoner). If you take this claim twice, you’ll have 4 load while you’re serving time in Ironhook. Also, you may choose to carry coin in place of load for purposes of bribes or acquiring assets while in prison. You may reset the items in your prison loadout whenever your crew has downtime.
+You arrange smuggling channels inside. You have **+2** load while incarcerated, (starting from zero as a prisoner). If you take this claim twice, you’ll have 4 load while you’re serving time in Ironhook. Also, you may choose to carry coin in place of load for purposes of bribes or acquiring assets while in prison. You may reset the items in your prison loadout whenever your crew has downtime.
 
 ## Entanglements
 
