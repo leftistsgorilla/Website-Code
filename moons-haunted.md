@@ -10,7 +10,7 @@
 
 ### The Setting
 
-*Moon's Haunted (Working Title)* takes place in the haunted lunar dystopia of **Dianis** in the 26th century. Originally built as a penal colony for the genetically and cybernetically enhanced, Dianis is now the capital of the **Lunar Salvation State**, the authoritarian government that claims sole power over the remnants of humanity. Ruling with an iron fist, the LSS is empowered by technology developed from the **Carcass of Ur**, the enormous corpse of a long-dead god buried deep beneath the Moon's surface. **Earth** has been reduced to a husk-planet by the **Eye of Calamity**, a psychic superweapon that ended the **Terran-Lunar War** and forced the remainder of humanity to emigrate to the Moon. The ruling **United National Party** is bogged down by corruption and run by aging plutocrats, their bodies and minds stretched far past their natural limit by sinister sciences. Inhabitants of Dianis regularly undergo genetic and mechanical modifications to their bodies, with results varying between awe-inspiring and terrifying. While grey-uniformed agents of the **Lunar Defense Forces** patrol the streets meting out their own twisted form of the "law", **ghosts**, **demons**, and **mutants** prowl the alleys and service tunnels. While explanations for these creatures range from the alien to the divine, they are all undoubtedly connected to the **Web**, a mysterious psychic field that seems to permeate the entire city and originate from the Carcass. While the Web is most commonly used for communication and human-machine interface, it is also harnessed for darker aims, blending tissue and circuitry to new and horrifying ends. Though it is *de jure* under the sole control of the LSS, the Web has spawned a number of mysterious anomalies, most notable among which are the **God-Children**, seemingly immortal beings who now walk among the city’s citizens, gathering supplicants and leaving mysteries in their wake.
+*Moon's Haunted (Working Title)* takes place in the haunted lunar dystopia of **Dianis** in the 26th century. Originally built as a penal colony for the genetically and cybernetically enhanced, Dianis is now the capital of the **Lunar Salvation State**, the authoritarian government that claims sole power over the remnants of humanity. Ruling with an iron fist, the LSS is empowered by technology developed from the **Carcass of Ur**, the enormous corpse of a long-dead god buried deep beneath the Moon's surface. **Earth** has been reduced to a husk-planet by the **Eye of Calamity**, a psychic superweapon that ended the **Terran-Lunar War** and forced the remainder of humanity to emigrate to the Moon. The ruling **United National Party** is bogged down by corruption and run by aging plutocrats, their bodies and minds stretched far past their natural limit by sinister sciences. Inhabitants of Dianis regularly undergo genetic and mechanical modifications to their bodies, with results varying between awe-inspiring and terrifying. While grey-uniformed agents of the **Lunar Defense Forces** patrol the streets meting out their own twisted form of the "law", **ghosts**, **demons**, and **mutants** lurk in the alleys and service tunnels. While explanations for these creatures range from the alien to the divine, they are all undoubtedly connected to the **Web**, a mysterious psychic field that seems to permeate the entire city and originate from the Carcass. While the Web is most commonly used for communication and human-machine interface, it is also harnessed for darker aims, blending tissue and circuitry to new and horrifying ends. Though it is *de jure* under the sole control of the LSS, the Web has spawned a number of mysterious anomalies, most notable among which are the **God-Children**, seemingly immortal beings who now walk among the city’s citizens, gathering supplicants and leaving mysteries in their wake.
 
 ### The Players
 
@@ -97,20 +97,20 @@ The phases are a conceptual model to help you organize the game. They’re not m
 
 There are 12 **actions** in the game that the player characters use to overcome obstacles.
 
-* Attune
-* Command
-* Consort
-* Finesse
-* Hunt
-* Prowl
-* Skirmish
-* Study
-* Survey
-* Sway
-* Tinker
-* Wreck
+* **Attune**
+* **Command**
+* **Consort**
+* **Finesse**
+* **Hunt**
+* **Prowl**
+* **Skirmish**
+* **Study**
+* **Survey**
+* **Sway**
+* **Tinker**
+* **Wreck**
 
-Each action has a rating (from zero to 4) that tells you how many dice to roll when you perform that action. Action ratings don’t just represent skill or training—you’re free to describe *how* your character performs that action based on the type of person they are. Maybe your character is good at Command because they have a scary stillness to them, while another character barks orders and intimidates people with their military bearing.
+Each action has a rating (from zero to 4) that tells you how many dice to roll when you perform that action. Action ratings don’t just represent skill or training—you’re free to describe *how* your character performs that action based on the type of person they are. Maybe your character is good at **Command** because they have a scary stillness to them, while another character barks orders and intimidates people with their military bearing.
 
 You choose which action to perform to overcome an obstacle, by describing what your character does. Actions that are poorly suited to the situation may be less effective and may put the character in more danger, but they can still be attempted. Usually, when you perform an action, you’ll make an **action roll** to see how it turns out.
 
@@ -130,7 +130,7 @@ The rating for each attribute is equal to the number of dots in the **first colu
 
 Each attribute resists a different type of danger. If you get stabbed, for example, you resist physical harm with your Prowess rating. Resistance rolls always succeed—you diminish or deflect the bad result—but the better your roll, the less **stress** it costs to reduce or avoid the danger.
 
-When the enemy has a big advantage, you’ll need to make a resistance roll before you can take your own action. For example, when you duel the master sword-fighter, she disarms you before you can strike. You need to make a resistance roll to keep hold of your blade if you want to attack her. Or perhaps you face a powerful ghost and attempt to Attune with it to control its actions. But before you can make your own roll, you must resist possession from the spirit.
+When the enemy has a big advantage, you’ll need to make a resistance roll before you can take your own action. For example, when you duel the master sword-fighter, she disarms you before you can strike. You need to make a resistance roll to keep hold of your blade if you want to attack her. Or perhaps you face a powerful ghost and attempt to **Attune** with it to control its actions. But before you can make your own roll, you must resist possession from the spirit.
 
 The GM judges the threat level of the enemies and uses these “preemptive” resistance rolls as needed to reflect the capabilities of especially dangerous foes.
 
@@ -140,55 +140,55 @@ For details on **Resistance Rolls**, see page 28.
 
 ### Actions
 
-When you Attune, you open your mind to arcane power.
+When you **Attune**, you open your mind to arcane power.
 
-*You might communicate with a ghost. You could try to perceive beyond sight in order to better understand your situation (but Surveying might be better).*
+*You might communicate with a ghost. You could try to perceive beyond sight in order to better understand your situation (but **Surveying** might be better).*
 
-When you Command, you compel swift obedience.
+When you **Command**, you compel swift obedience.
 
-*You might intimidate or threaten to get what you want. You might lead a gang in a group action. You could try to order people around to persuade them (but Consorting might be better).*
+*You might intimidate or threaten to get what you want. You might lead a gang in a group action. You could try to order people around to persuade them (but **Consorting** might be better).*
 
-When you Consort, you socialize with friends and contacts.
+When you **Consort**, you socialize with friends and contacts.
 
-*You might gain access to resources, information, people, or places. You might make a good impression or win someone over with your charm and style. You might make new friends or connect with your heritage or background. You could try to manipulate your friends with social pressure (but Sway might be better).*
+*You might gain access to resources, information, people, or places. You might make a good impression or win someone over with your charm and style. You might make new friends or connect with your heritage or background. You could try to manipulate your friends with social pressure (but **Sway** might be better).*
 
-When you Finesse, you employ dextrous manipulation or subtle misdirection.
+When you **Finesse**, you employ dextrous manipulation or subtle misdirection.
 
-*You might pick someone’s pocket. You might handle the controls of a vehicle or direct a mount. You might formally duel an opponent with graceful fighting arts. You could try to employ those arts in a chaotic melee (but Skirmishing might be better). You could try to pick a lock (but Tinkering might be better).*
+*You might pick someone’s pocket. You might handle the controls of a vehicle or direct a mount. You might formally duel an opponent with graceful fighting arts. You could try to employ those arts in a chaotic melee (but Skirmishing might be better). You could try to pick a lock (but **Tinkering** might be better).*
 
-When you Hunt, you carefully track a target.
+When you **Hunt**, you carefully track a target.
 
 *You might follow a target or discover their location. You might arrange an ambush. You might attack with precision shooting from a distance. You could try to bring your guns to bear in a melee (but Skirmishing might be better).*
 
-When you Prowl, you traverse skillfully and quietly.
+When you **Prowl**, you traverse skillfully and quietly.
 
-*You might sneak past a guard or hide in the shadows. You might run and leap across the rooftops. You might attack someone from hiding with a back-stab or blackjack. You could try to waylay a victim in the midst of battle (but Skirmishing might be better).*
+*You might sneak past a guard or hide in the shadows. You might run and leap across the rooftops. You might attack someone from hiding with a back-stab or blackjack. You could try to waylay a victim in the midst of battle (but **Skirmishing** might be better).*
 
-When you Skirmish, you entangle a target in close combat so they can’t easily escape.
+When you **Skirmish**, you entangle a target in close combat so they can’t easily escape.
 
-*You might brawl or wrestle with them. You might hack and slash. You might seize or hold a position in battle. You could try to fight in a formal duel (but Finessing might be better).*
+*You might brawl or wrestle with them. You might hack and slash. You might seize or hold a position in battle. You could try to fight in a formal duel (but **Finessing** might be better).*
 
-When you Study, you scrutinize details and interpret evidence.
+When you **Study**, you scrutinize details and interpret evidence.
 
-*You might gather information from documents, newspapers, and books. You might do research on an esoteric topic. You might closely analyze a person to detect lies or true feelings. You could try to examine events to understand a pressing situation (but Surveying might be better).*
+*You might gather information from documents, newspapers, and books. You might do research on an esoteric topic. You might closely analyze a person to detect lies or true feelings. You could try to examine events to understand a pressing situation (but **Surveying** might be better).*
 
-When you Survey, you observe the situation and anticipate outcomes.
+When you **Survey**, you observe the situation and anticipate outcomes.
 
-*You might spot telltale signs of trouble before it happens. You might uncover opportunities or weaknesses. You might detect a person’s motivations or intentions. You could try to spot a good ambush point (but Hunting might be better).*
+*You might spot telltale signs of trouble before it happens. You might uncover opportunities or weaknesses. You might detect a person’s motivations or intentions. You could try to spot a good ambush point (but **Hunting** might be better).*
 
 When you Sway, you influence with guile, charm, or argument.
 
-*You might lie convincingly. You might persuade someone to do what you want. You might argue a compelling case that leaves no clear rebuttal. You could try to trick people into affection or obedience (but Consorting or Commanding might be better).*
+*You might lie convincingly. You might persuade someone to do what you want. You might argue a compelling case that leaves no clear rebuttal. You could try to trick people into affection or obedience (but **Consorting** or **Commanding** might be better).*
 
-When you Tinker, you fiddle with devices and mechanisms.
+When you **Tinker**, you fiddle with devices and mechanisms.
 
-*You might create a new gadget or alter an existing item. You might pick a lock or crack a safe. You might disable an alarm or trap. You might turn the clockwork and electroplasmic devices around the city to your advantage. You could try to use your technical expertise to control a vehicle (but Finessing might be better).*
+*You might create a new gadget or alter an existing item. You might pick a lock or crack a safe. You might disable an alarm or trap. You might turn the clockwork and electroplasmic devices around the city to your advantage. You could try to use your technical expertise to control a vehicle (but **Finessing** might be better).*
 
-When you Wreck, you unleash brutal force.
+When you **Wreck**, you unleash brutal force.
 
-*You might smash down a door or wall with a sledgehammer, or use an explosive to do the same. You might employ chaos or sabotage to create a distraction or overcome an obstacle. You could try to overwhelm an enemy with sheer force in battle (but Skirmishing might be better).*
+*You might smash down a door or wall with a sledgehammer, or use an explosive to do the same. You might employ chaos or sabotage to create a distraction or overcome an obstacle. You could try to overwhelm an enemy with sheer force in battle (but **Skirmishing** might be better).*
 
-As you can see, many actions overlap with others. This is by design. As a player, you get to choose which action you roll, by saying what your character does. Can you try to Wreck someone during a fight? Sure! The GM tells you the position and effect level of your action in this circumstance. As it says, Skirmish *might* be better (less risky or more effective), depending on the situation at hand (sometimes it won’t be better).
+As you can see, many actions overlap with others. This is by design. As a player, you get to choose which action you roll, by saying what your character does. Can you try to **Wreck** someone during a fight? Sure! The GM tells you the position and effect level of your action in this circumstance. As it says, **Skirmish** *might* be better (less risky or more effective), depending on the situation at hand (sometimes it won’t be better).
 
 ## Stress & Trauma
 
@@ -253,7 +253,7 @@ Examples of progress clocks follow.
 
 ### Danger Clocks
 
-The GM can use a clock to represent a progressive danger, like suspicion growing during a seduction, the proximity of pursuers in a chase, or the alert level of guards on patrol. In this case, when a complication occurs, the GM ticks one, two, or three segments on the clock, depending on the consequence level. When the clock is full, the danger comes to fruition—the guards hunt down the intruders, activate an alarm, release the hounds, etc.
+The GM can use a clock to represent a progressive danger, like suspicion growing during a seduction, the proximity of pursuers in a chase, or the alert level of guards on patrol. In this case, when a complication occurs, the GM ticks one, two, or three segments on the clock, depending on the consequence level. When the clock is full, the danger comes to fruition—the guards track down the intruders, activate an alarm, release the hounds, etc.
 
 ### Racing Clocks
 
@@ -415,10 +415,13 @@ Every factor won’t always apply to every situation. You don’t have to do an 
 After factors are considered and the GM has announced the effect level, a player might want to trade position for effect, or vice versa. For instance, if they’re going to make a risky roll with standard effect (the most common scenario, generally), they might instead want to push their luck and make a desperate roll but with great effect.
 
 This kind of trade-off isn’t included in the effect factors because it’s not an element the GM should assess when setting the effect level. Once the level is set, though, you can always offer the trade-off to the player if it makes sense in the situation.
-*“I Prowl across the courtyard and vault over the wall, hiding in the shadows by the canal dock and gondola.”*
-*“I don’t think you can make it across in one quick dash. The scale of the courtyard is a factor here, so your effect will be limited. Let’s say you can get halfway across with this action, then you’ll have to Prowl through the other half of the space (and the rest of the guards there) to reach the other side.”*
-*“I didn’t realize it was that far. Hmmm. Okay, what if I just go as fast as I can. Can I get all the way across if I make a desperate roll?”*
-*“Yep, sounds good to me!”*
+
+An example of how this might occur follows:
+
+> 1. ***Player**: “I **Prowl** across the courtyard and vault over the wall, hiding in the shadows by the canal dock and gondola.”*
+> 2. ***GM**: “I don’t think you can make it across in one quick dash. The scale of the courtyard is a factor here, so your effect will be limited. Let’s say you can get halfway across with this action, then you’ll have to **Prowl** through the other half of the space (and the rest of the guards there) to reach the other side.”*
+> 3. ***Player**: “I didn’t realize it was that far. Hmmm. Okay, what if I just go as fast as I can. Can I get all the way across if I make a desperate roll?”*
+> 4. ***GM**: “Yep, sounds good to me!”*
 
 ### Consequences
 
@@ -432,10 +435,14 @@ The ability to set position and effect as independent variables gives you nine c
 
 *For example, if a character is facing off alone against a small enemy gang, the situation might be:*
 
-* *She fights the gang straight up, rushing into their midst, hacking away in a wild* Skirmish. In this case, being threatened by the larger force lowers her position to indicate greater risk, and the scale of the gang reduces her effect (Desperate / Limited).\_
-* *She fights the gang from a choke-point, like a narrow alleyway where their numbers can’t overwhelm her at once. She’s not threatened by several at once, so her risk is similar to a one-on-one fight, but there’s still a lot of enemies to deal with, so her effect is reduced (Risky / Limited).*
-* *She doesn’t fight the gang, instead trying to maneuver her way past them and escape. She’s still under threat from many enemy attacks, so her position is worse, but if the ground is open and the gang can’t easily corral her, then her effect for escaping isn’t reduced (Desperate / Standard). If she had some immediate means of escape (like leaping onto a speeding carriage), then her effect might even be increased (Desperate / Great).*
-* *The gang isn’t aware of her yet—she’s set up in a sniper position on a nearby roof. She takes a shot against one of them. Their greater numbers aren’t a factor, so her effect isn’t reduced, and she’s not immediately in any danger (Controlled / Great). Maybe instead she wants to fire off a salvo of suppressing fire against the whole gang, in which case their scale applies (Controlled / Limited). If the gang is on guard for potential trouble, her position is more dangerous (Risky / Great). If the gang is alerted to a sniper, then the effect may be reduced further, as they scatter and take cover (Risky / Limited). If the gang is able to muster covering fire while they fall back to a safe position, then things are even worse for our scoundrel (Desperate / Limited).*
+> * She fights the gang straight up, rushing into their midst, hacking away in a wild **Skirmish**. *In this case, being threatened by the larger force lowers her position to indicate greater risk, and the scale of the gang reduces her effect **(Desperate/Limited)**.*
+> * She fights the gang from a choke-point, like a narrow alleyway where their numbers can’t overwhelm her at once. She’s not threatened by several at once, so her risk is similar to a one-on-one fight, but there’s still a lot of enemies to deal with, so her effect is reduced **(Risky/Limited)**.*
+> * *She doesn’t fight the gang, instead trying to maneuver her way past them and escape. She’s still under threat from many enemy attacks, so her position is worse, but if the ground is open and the gang can’t easily corral her, then her effect for escaping isn’t reduced (Desperate/Standard). If she had some immediate means of escape (like leaping onto a speeding carriage), then her effect might even be increased **(Desperate/Great)**.
+> * *The gang isn’t aware of her yet—she’s set up in a sniper position on a nearby roof. She takes a shot against one of them. Their greater numbers aren’t a factor, so her effect isn’t reduced, and she’s not immediately in any danger **(Controlled/Great)**.
+> * Maybe instead she wants to fire off a salvo of suppressing fire against the whole gang, in which case their scale applies **(Controlled/Limited)**.
+> * If the gang is on guard for potential trouble, her position is more dangerous **(Risky/Great**).
+> * If the gang is alerted to a sniper, then the effect may be reduced further, as they scatter and take cover **(Risky/Limited)**.
+> * If the gang is able to muster covering fire while they fall back to a safe position, then things are even worse for our scoundrel **(Desperate/Limited)**.
 
 ## Consequences and Harm
 
@@ -561,13 +568,13 @@ If no trait applies, roll 1d for sheer luck or create a dice pool (from one to f
 
 The fortune roll is also a good tool to help the GM manage all the various moving parts of the world. Sometimes a quick roll is enough to answer a question or inspire an idea for what might happen next.
 
-Other examples of fortune rolls:
+### Other Examples of Fortune Rolls
 
-* The PCs instigate a war between two factions, then sit back and watch the fireworks. How does it turn out? Does either side dominate? Are they both made vulnerable by the conflict? Make a few fortune rolls to find out.
-* A strange sickness is sweeping the city. How badly is a crime ridden district hit by the outbreak? The GM assigns a magnitude to the arcane plague, and makes a fortune roll to judge the extent of its contamination.
-* The Hound stakes out a good spot and makes a sniper shot against a gang leader when he enters his office. The controlled Hunt roll is a success, but is great effect enough to instantly kill a grizzled gang leader? Instead of making a progress clock for his mortality, the GM decides to use a simple fortune roll with his “toughness” as a trait to see if he can possibly survive the attack. The roll is a 4/5: the bullet misses his heart, but hits him in the lung—it’s a mortal wound. He’s on death’s door, with only hours to live, unless his gang can get an expert physicker to him in time.
-* Inspectors are putting a case together against the PC crew. How quickly will their evidence result in arrests? The crew’s wanted level counts as a major advantage for the inspectors.
-* The PCs face off in a skirmish with a veteran demon hunter captain and her crew. The tide of battle goes in the PCs’ favor, and many crew members are killed. One of the players asks if the captain will surrender to spare the rest of her crew’s lives. The GM isn’t sure. How cold-hearted is this veteran hunter? She’s stared giant demons in the eye without flinching... is there anything human left inside her? The GM makes a 2d fortune roll for “human feelings” to see if a spark of compassion remains in heart. If so, maybe one of the PCs can roll to Consort, Sway, or Command her to stand down.
+> * The PCs instigate a war between two factions, then sit back and watch the fireworks. How does it turn out? Does either side dominate? Are they both made vulnerable by the conflict? Make a few fortune rolls to find out.
+> * A strange sickness is sweeping the city. How badly is a crime ridden district hit by the outbreak? The GM assigns a magnitude to the arcane plague, and makes a fortune roll to judge the extent of its contamination.
+> * The Hound stakes out a good spot and makes a sniper shot against a gang leader when he enters his office. The controlled **Hunt** roll is a success, but is great effect enough to instantly kill a grizzled gang leader? Instead of making a progress clock for his mortality, the GM decides to use a simple fortune roll with his “toughness” as a trait to see if he can possibly survive the attack. The roll is a 4/5: the bullet misses his heart, but hits him in the lung—it’s a mortal wound. He’s on death’s door, with only hours to live, unless his gang can get an expert physicker to him in time.
+> * Inspectors are putting a case together against the PC crew. How quickly will their evidence result in arrests? The crew’s wanted level counts as a major advantage for the inspectors.
+> * The PCs face off in a skirmish with a veteran demon hunter captain and her crew. The tide of battle goes in the PCs’ favor, and many crew members are killed. One of the players asks if the captain will surrender to spare the rest of her crew’s lives. The GM isn’t sure. How cold-hearted is this veteran hunter? She’s stared giant demons in the eye without flinching... is there anything human left inside her? The GM makes a 2d fortune roll for “human feelings” to see if a spark of compassion remains in heart. If so, maybe one of the PCs can roll to **Consort**, **Sway**, or **Command** her to stand down.
 
 @TODO table p31
 
@@ -583,9 +590,9 @@ Each attempt to gather information takes time. If the situation allows, you can 
 
 Some example questions are on the bottom of the character sheet. The GM always answers honestly, but with a level of detail according to the level of effect.
 
-The most common gather information actions are Surveying the situation to reveal or anticipate what’s going on and Studying a person to understand what they intend to do or what they’re really thinking.
+The most common gather information actions are **Surveying** the situation to reveal or anticipate what’s going on and Studying a person to understand what they intend to do or what they’re really thinking.
 
-Sometimes, you’ll have to maneuver yourself into position before you can gather information. For example, you might have to Prowl to a good hiding place first and then Study the cultists when they perform their dark ritual.
+Sometimes, you’ll have to maneuver yourself into position before you can gather information. For example, you might have to **Prowl** to a good hiding place first and then Study the cultists when they perform their dark ritual.
 
 ### Investigation
 
@@ -595,16 +602,16 @@ You track the investigation project using a progress clock. Once the clock is fi
 
 ### Examples & Questions
 
-* You might Attune to see echoes of recent spirit activity. *Have any new ghosts been here? How can I find the spirit well that’s calling to them? What should I be worried about?*
-* You might Command a local barkeep to tell you what he knows about the secret meetings held in his back room. *What’s really going on here? What’s he really feeling about this? Is he part of this secret group?*
-* You might Consort with a well-connected friend to learn secrets about an enemy, rival, or potential ally. *What do they intend to do? What might I suspect about their motives? How can I discover leverage to manipulate them?*
-* You might Hunt a courier across the city, to discover who’s receiving satchels of coin from a master duelsit. *Where does the package end up? How can I find out who signed for the package at City Hall?*
-* You might Study ancient and obscure books to discover an arcane secret. *How can I disable the runes of warding? Will anyone sense if they’re disabled?*
-* Or you might Study a person to read their intentions and feelings. *What are they really feeling? How could I get them to trust me?*
-* You might Survey a manor house to case it for a heist. *What’s a good point of infiltration? What’s the danger here?*
-* Or you might Survey a charged situation when you meet another gang. *What’s really going on here? Are they about to attack us?*
+* You might **Attune** to see echoes of recent spirit activity. *Have any new ghosts been here? How can I find the spirit well that’s calling to them? What should I be worried about?*
+* You might **Command** a local barkeep to tell you what he knows about the secret meetings held in his back room. *What’s really going on here? What’s he really feeling about this? Is he part of this secret group?*
+* You might **Consort** with a well-connected friend to learn secrets about an enemy, rival, or potential ally. *What do they intend to do? What might I suspect about their motives? How can I discover leverage to manipulate them?*
+* You might **Hunt** a courier across the city, to discover who’s receiving satchels of coin from a master duelsit. *Where does the package end up? How can I find out who signed for the package at City Hall?*
+* You might **Study** ancient and obscure books to discover an arcane secret. *How can I disable the runes of warding? Will anyone sense if they’re disabled?*
+  * Instead, you might **Study** a person to read their intentions and feelings. *What are they really feeling? How could I get them to trust me?*
+* You might **Survey** a manor house to case it for a heist. *What’s a good point of infiltration? What’s the danger here?*
+  * Instead, you might **Survey** a charged situation when you meet another gang. *What’s really going on here? Are they about to attack us?*
 * You might Sway a powerful lord at a party so he divulges his future plans. *What does he intend to do? How can I get him to think I might be a good partner in this venture?*
-* Or you might Sway his bodyguard to confide in you about recent events. *Where has he been lately? Who’s he been meeting with?*
+  * Instead, you might Sway his bodyguard to confide in you about recent events. *Where has he been lately? Who’s he been meeting with?*
 
 @TODO table p33
 
@@ -664,12 +671,12 @@ You’ll use your Tier rating to roll dice when you acquire an asset, as well as
 
 ### Gang scale by tier
 
-* tier v. Massive gangs. (80 people)
-* tier iv. Huge gangs. (40 people)
-* tier iii. Large gangs. (20 people)
-* tier ii. Medium gangs. (12 people)
-* tier i. Small gangs. (3-6 people)
-* tier 0. 1 or 2 people
+* **Tier 5**: Massive gangs. (80 people)
+* **Tier 4**: Huge gangs. (40 people)
+* **Tier 3**: Large gangs. (20 people)
+* **Tier 2**: Medium gangs. (12 people)
+* **Tier 1**: Small gangs. (3-6 people)
+* **Tier 0**: 1 or 2 people
 
 ### Hold
 
@@ -679,7 +686,7 @@ On the faction ladder next to the Tier numbers is a letter indicating the streng
 
 To move up the ladder and develop your crew, you need rep. Rep is a measure of clout and renown. When you accrue enough rep, the other factions take you more seriously and you attract the support needed to develop and grow.
 
-When you complete a score, your crew earns **2** rep. If the target of the score is higher Tier than your crew, you get **+1** rep **per Tier higher**. If the target of the score is lower Tier, you get **\-1 rep** per Tier lower\*\* (minimum zero).
+When you complete a score, your crew earns **2** rep. If the target of the score is higher Tier than your crew, you get **+1** rep **per Tier higher**. If the target of the score is lower Tier, you get **\-1 rep** per Tier lower (minimum zero).
 
 You need **12 rep** to fill the rep tracker on your crew sheet. When you fill the tracker, do one of the following:
 
@@ -716,13 +723,13 @@ When you execute an operation, you gain -1 or -2 status with factions that are h
 
 ### Faction status levels
 
-* **+3:** Allies\*\*. This faction will help you even if it’s not in their best interest to do so. They expect you to do the same for them.
-* **+2:** Friendly**.** This faction will help you if it doesn’t create serious problems for them. They expect you to do the same.
-* **+1:** Helpful**.** This faction will help you if it causes no problems or significant cost for them. They expect the same from you.
-* **0:** Neutral\*\*
-* **\-1:** Interfering**.** This faction will look for opportunities to cause trouble for you (or profit from your misfortune) as long as it causes no problems or significant cost for them. They expect the same from you.
-* **\-2:** Hostile**.** This faction will look for opportunities to hurt you as long as it doesn’t create serious problems for them. They expect you to do the same, and take precautions against you.
-* **\-3:** War**.** This faction will go out of its way to hurt you even if it’s not in their best interest to do so. They expect you to do the same, and take precautions against you. When you’re at war with any number of factions, your crew suffers +1 heat from scores, temporarily loses 1 hold, and PCs get only one downtime action rather than two. You can end a war by eliminating your enemy or by negotiating a mutual agreement to establish a new status rating.
+* **+3:** **Allies** This faction will help you even if it’s not in their best interest to do so. They expect you to do the same for them.
+* **+2:** **Friendly** This faction will help you if it doesn’t create serious problems for them. They expect you to do the same.
+* **+1:** **Helpful** This faction will help you if it causes no problems or significant cost for them. They expect the same from you.
+* **0:** **Neutral**
+* **\-1:** **Interfering** This faction will look for opportunities to cause trouble for you (or profit from your misfortune) as long as it causes no problems or significant cost for them. They expect the same from you.
+* **\-2:** **Hostile** This faction will look for opportunities to hurt you as long as it doesn’t create serious problems for them. They expect you to do the same, and take precautions against you.
+* **\-3:** **War** This faction will go out of its way to hurt you even if it’s not in their best interest to do so. They expect you to do the same, and take precautions against you. When you’re at war with any number of factions, your crew suffers +1 heat from scores, temporarily loses 1 hold, and PCs get only one downtime action rather than two. You can end a war by eliminating your enemy or by negotiating a mutual agreement to establish a new status rating.
 
 > If your crew has weak hold when you go to war, the temporary loss of hold causes you to lose one Tier. When the war is over, restore your crew’s Tier back to its pre-war level.
 
@@ -768,7 +775,7 @@ You may mark end-of-session xp on any xp tracks you want (any attribute or your 
 
 When you fill an xp track, clear all the marks and take an **advance**. When you take an advance from your playbook track, you may choose an additional **special ability**. When you take an advance from an attribute, you may add an **additional action dot** to one of the actions under that attribute.
 
-> Nadja is playing a Hound. At the end of the session, she reviews her xp triggers and tells the group how much xp she’s getting. She rolled two desperate Hunt actions during the session, so she marked 2 xp on her Insight xp track. She addressed several challenges with tracking or violence, so she marks 2 xp for that. She expressed her Iruvian heritage many times when dealing with the Red Sashes, so she takes 2 xp for that. She also showcased her character’s beliefs, but 2 xp is the maximum for that category, so she doesn’t get any more. She didn’t struggle with her vice or traumas, so no xp there. That’s 4 xp at the end of the session. She decides to put it all in her Insight xp track. This fills the track, so she adds a new action dot in Hunt.
+> Nadja is playing a Hound. At the end of the session, she reviews her xp triggers and tells the group how much xp she’s getting. She rolled two desperate **Hunt** actions during the session, so she marked 2 xp on her Insight xp track. She addressed several challenges with tracking or violence, so she marks 2 xp for that. She expressed her Iruvian heritage many times when dealing with the Red Sashes, so she takes 2 xp for that. She also showcased her character’s beliefs, but 2 xp is the maximum for that category, so she doesn’t get any more. She didn’t struggle with her vice or traumas, so no xp there. That’s 4 xp at the end of the session. She decides to put it all in her Insight xp track. This fills the track, so she adds a new action dot in **Hunt**.
 
 You can also earn xp by **training** during downtime. When you train, mark xp in one of your attributes or in your playbook. A given xp track can be trained only once per downtime phase.
 
@@ -793,7 +800,7 @@ Every time the crew advances, **each PC gets** **s**tash\*\* equal to the crew T
 
 ## Character creation
 
-Every player character is familiar with all of the various feats of skulduggery represented by the **actions** of the game. They’re all able to Skirmish in a knife-fight, Prowl in the shadows, Attune to strange energy, Consort with contacts for information, and so on.
+Every player character is familiar with all of the various feats of skulduggery represented by the actions of the game. They’re all able to **Skirmish** in a knife-fight, **Prowl** in the shadows, **Attune** to strange energy, **Consort** with contacts for information, and so on.
 
 Of course, you’ll also have your specializations and skills, the qualities that make your character uniquely effective. You might want the ability to compel obedience from ghosts and channel arcane energy through your body, or maybe you want to manipulate the network of the underworld to your advantage and see danger before it strikes, or maybe you just want to be the deadliest fighter with a blade. In this chapter, you’ll learn how to create your own unique scoundrel and choose the abilities that suit the style of play you prefer.
 
@@ -801,7 +808,7 @@ Of course, you’ll also have your specializations and skills, the qualities tha
 
 A playbook is what we call the sheet with all the specific rules to play a certain character type in a *Moon's Haunted (Working Title)* game. For example, you might create a playbook called a **Soldier**, with special abilities related to battle, or a playbook called a **Medic**, with special abilities related to field medicine.
 
-When you choose a playbook, you’re choosing a set of **special abilities** (which give your character ways to break the rules in various ways) and a set of **xp triggers** (which determine how you earn experience for character advancement). But every playbook represents a scoundrel at heart. The Cutter has special abilities related to combat, but that doesn’t mean they’re “the fighter” of the game. Any character type can fight well. Think of your playbook as an area of focus and preference, but not a unique skill set.
+When you choose a playbook, you’re choosing a set of **special abilities** (which give your character ways to break the rules in various ways) and a set of **XP triggers** (which determine how you earn experience for character advancement). But every playbook represents a scoundrel at heart. The Cutter has special abilities related to combat, but that doesn’t mean they’re “the fighter” of the game. Any character type can fight well. Think of your playbook as an area of focus and preference, but not a unique skill set.
 
 This is why we call them “playbooks” rather than “character classes” or “archetypes.” You’re selecting the set of initial action ratings and special abilities that your character has access to—but you’re not defining their immutable essence or true nature. Your character will grow and change over time; who they become is part of the fun of playing the game.
 
@@ -865,7 +872,7 @@ That’s it! Your character is ready for play. When you start the first session,
 
 2 **Choose a heritage.** Detail your choice with a note about your family life. *For example, Ore miners, now war refugees.*
 
-3 **Choose a background.** Detail your choice with your specific history. *For example, Labor: Hunter, mutineer.*
+3 **Choose a background.** Detail your choice with your specific history. *For example, Labor could be a hunter or mutineer.*
 
 4 **Assign four action dots.** No action may begin with a rating higher than 2 during character creation. *(After creation, action ratings may advance up to 3. When you unlock the Mastery advance for your crew, you can advance actions up to rating 4.)*
 
@@ -881,10 +888,10 @@ That’s it! Your character is ready for play. When you start the first session,
 
 You have access to all of the **items** on your character sheet. For each operation, decide what your character’s **load** will be. During the operation, you may say that your character has an item on hand by checking the box for the item you want to use—up to a number of items equal to your chosen load. Your load also determines your movement speed and conspicuousness:
 
-* 1-3 load:\*\* Light. *You’re faster, less conspicuous; you blend in with citizens.*
-* 4/5 load: **Normal**. *You look like a scoundrel, ready for trouble.*
-* 6 load: **Heavy.** *You’re slower. You look like an operative on a mission.*
-* 7-9 load: **Encumbered.** *You’re overburdened and can’t do anything except move very slowly.*
+* **1-3 Load — Light:** *You’re faster, less conspicuous; you blend in with citizens.*
+* **4-5 Load — Normal:** *You look like a scoundrel, ready for trouble.*
+* **6 Load — Heavy:** *You’re slower. You look like an operative on a mission.*
+* **7-9 Load — Encumbered:** *You’re overburdened and can’t do anything except move very slowly.*
 
 Some special abilities (like the Cutter’s Mule ability or Assassin’s Rigging) increase the load limits.
 
@@ -916,7 +923,7 @@ Medium length description of the character here. Include what kind of activities
 
 ### Friends, rivals
 
-A list of five possible friends or rivals go here, along with descriptions of each. Some possibilities include: A spy, a bounty hunte, a pugalist, a cold killer, an extortionist, a physicker, an assassin, a sentinel, an apothocary, a priestess, a noble, a city clerk, an officer, an inspector, a beggar, a locksmith, a gang leader, a drug dealer, a tavern owner, a porstitue, a jail-bird, an information broker, a servant, an archivist, or a supernatural entitity.
+A list of five possible friends or rivals go here, along with descriptions of each. Some possibilities include: A spy, a bounty hunter, a pugalist, a cold killer, an extortionist, a physicker, an assassin, a sentinel, an apothocary, a priestess, a noble, a city clerk, an officer, an inspector, a beggar, a locksmith, a gang leader, a drug dealer, a tavern owner, a porstitue, a jail-bird, an information broker, a servant, an archivist, or a supernatural entitity.
 
 Questions can inlclue how you know the friend, what they’ve done for you, what you do for them, and what kind of relationship you have.
 
@@ -926,62 +933,44 @@ Choose seven special abilities for you playbook. Here are several examples.
 
 ### Battleborn
 
-You may expend your **special armor** to reduce harm from an attack in combat or to **push yourself** during a fight.
-
+> You may expend your **special armor** to reduce harm from an attack in combat or to **push yourself** during a fight.
 > When you use this ability, tick the special armor box on your playbook sheet. If you “reduce harm” that means the level of harm you’re facing right now is reduced by one. If you use this ability to push yourself, you get one of the benefits (+1d, +1 effect, act despite severe harm) but you don’t take 2 stress. Your special armor is restored at the beginning of downtime.
 
 ### Bodyguard
 
-When you **protect** a teammate, take **+1d** to your resistance roll. When you gather info to anticipate possible threats in the current situation, you get **+1 effect**.
-
+> When you **protect** a teammate, take **+1d** to your resistance roll. When you gather info to anticipate possible threats in the current situation, you get **+1 effect**.
 > The protect teamwork maneuver lets you face a consequence for a teammate. If you choose to resist that consequence, this ability gives you +1d to your resistance roll. Also, when you read a situation to gather information about hidden dangers or potential attackers, you get +1 effect—which means more detailed information.
 
 ### Arcane fighter
 
-You may imbue your hands, melee weapons, or tools with spirit energy. You gain **potency** in combat vs. the supernatural..
-
-> When you imbue yourself with arcane energy, how do you do it? What does it look like when the energy manifests?
+> You may imbue your hands, melee weapons, or tools with spirit energy. You gain **potency** in combat vs. the supernatural. When you imbue yourself with arcane energy, how do you do it? What does it look like when the energy manifests?
 
 ### Leader
 
-When you Command a **cohort** in combat, they continue to fight when they would otherwise **break** (they’re not taken out when they suffer level 3 harm). They gain **+1 effect** and **1 armor**.
-
+> When you **Command** a **cohort** in combat, they continue to fight when they would otherwise **break** (they’re not taken out when they suffer level 3 harm). They gain **+1 effect** and **1 armor**.
 > This ability makes your cohorts more effective in battle and also allows them to resist harm by using armor. While you lead your cohorts, they won’t stop fighting until they take fatal harm (level 4) or you order them to cease. What do you do to inspire such bravery in battle?
 
 ### Mule
 
-Your load limits are higher. Light: 5. Normal: 7. Heavy: 8.
+> Your load limits are higher: Light - 5. Normal - 7. Heavy - 8. This ability is great if you want to wear heavy armor and pack a heavy weapon without attracting lots of attention. Since your exact gear is determined on-the-fly during an operation, having more load also gives you more options to get creative with when dealing with problems during a score.
 
-> This ability is great if you want to wear heavy armor and pack a heavy weapon without attracting lots of attention. Since your exact gear is determined on-the-fly during an operation, having more load also gives you more options to get creative with when dealing with problems during a score.
+### Not to be Trifled With
 
-### Not to be trifled with
-
-You can **push yourself** to do one of the following: *perform a feat of physical force that verges on the superhuman—engage a small gang on equal footing in close combat.*
-
-> When you push yourself to activate this ability, you still get one of the normal benefits of pushing yourself (+1d, +1 effect, etc.) in addition to the special ability.
->
-> If you perform a feat that verges on the superhuman, you might break a metal weapon with your bare hands, tackle a galloping horse, lift a huge weight, etc. If you engage a small gang on equal footing, you don’t suffer reduced effect due to scale against a small gang (up to six people).
+> You can **push yourself** to do one of the following: *perform a feat of physical force that verges on the superhuman — engage a small gang on equal footing in close combat.* When you push yourself to activate this ability, you still get one of the normal benefits of pushing yourself (+1d, +1 effect, etc.) in addition to the special ability. If you perform a feat that verges on the superhuman, you might break a metal weapon with your bare hands, tackle a galloping horse, lift a huge weight, etc. If you engage a small gang on equal footing, you don’t suffer reduced effect due to scale against a small gang (up to six people).
 
 ### Brutal
 
-When you unleash physical violence, it’s especially frightening. When you Command a frightened target, take **+1d**.
-
-> You instill fear in those around you when you get violent. How they react depends on the person. Some people will flee from you, some will be impressed, some will get violent in return. The GM judges the response of a given NPC.
->
-> In addition, when you Command someone who’s affected by fear (from this ability or otherwise), take +1d to your roll.
+> When you unleash physical violence, it’s especially frightening. When you **Command** a frightened target, take **+1d**.
+> You instill fear in those around you when you get violent. How they react depends on the person. Some people will flee from you, some will be impressed, some will get violent in return. The GM judges the response of a given NPC. In addition, when you **Command** someone who’s affected by fear (from this ability or otherwise), take +1d to your roll.
 
 ### Vigorous
 
-You recover from harm faster. Permanently fill in one of your healing clock segments. Take **+1d** to healing treatment rolls.
-
-> Your healing clock becomes a 3-clock, and you get a bonus die when you recover.
+> You recover from harm faster. Permanently fill in one of your healing clock segments. Take **+1d** to healing treatment rolls. Your healing clock becomes a 3-clock, and you get a bonus die when you recover.
 
 ### Sharpshooter
 
-You can **push yourself** to do one of the following: *make a ranged attack at extreme distance beyond what’s normal for the weapon—unleash a barrage of rapid fire to suppress the enemy.*
-
+> You can **push yourself** to do one of the following: *make a ranged attack at extreme distance beyond what’s normal for the weapon — unleash a barrage of rapid fire to suppress the enemy.*
 > When you push yourself to activate this ability, you still get one of the normal benefits of pushing yourself (+1d, +1 effect, etc.) in addition to the special ability.
->
 > The first use of this ability allows you to attempt long-range sniper shots that would otherwise be impossible with typical rudimentary firearms. The second use allows you to keep up a steady rate of fire in a battle (enough to “suppress” a small gang up to six people), rather than stopping for a slow reload or discarding a gun after each shot. When an enemy is suppressed, they’re reluctant to maneuver or attack (usually calling for a fortune roll to see if they can manage it).
 
 ### Focused
@@ -1323,7 +1312,7 @@ You can add an **additional type** to a gang or expert by spending two crew upgr
 
 ### Using a Cohort
 
-When you send a cohort to achieve a goal, roll their **quality** to see how it goes. Or, a PC can oversee the maneuver by leading a **group action**. If you direct the cohort with orders, roll Command. If you participate in the action alongside the cohort, roll the appropriate action. The quality of any opposition relative to the cohort’s quality affects the position and effect of the action.
+When you send a cohort to achieve a goal, roll their **quality** to see how it goes. Or, a PC can oversee the maneuver by leading a **group action**. If you direct the cohort with orders, roll **Command**. If you participate in the action alongside the cohort, roll the appropriate action. The quality of any opposition relative to the cohort’s quality affects the position and effect of the action.
 
 > The PCs crew of Hawkers want to run a rival gang out of the alley where they’re selling drugs. They send their gang of Thugs to go kick the interlopers out. The GM rolls 2d for the Thugs’ quality, and gets a 3. An hour later, the Thugs come back, beaten and bloody. One of them looks sheepish, “Those guys are tough, boss.” (The GM inflicts harm on the cohort, and they failed their goal.)
 >
@@ -1453,7 +1442,7 @@ Offertory: You get **+2** coin in your payoff for scores that involve occult ope
 
 Local Graft: You get **+2** coin in **payoff** for scores that involve a show of force or socializing. *A few city officials share bribe money with those who show that they’re players on the scene.*
 
-Lookouts: You get **+1d** to Hunt or Survey on your turf.
+Lookouts: You get **+1d** to **Hunt** or **Survey** on your turf.
 
 Luxury Venue: **+1d** to Consort and Sway rolls on-site. *Silks, paintings, and crystal impress the clientele.*
 
@@ -1461,7 +1450,7 @@ Surplus Cache: You get **+2** coin in **payoff** for scores that involve product
 
 Covert Drop: You get **+2** coin in **payoff** for scores that involve espionage or sabotage. *The perfect hidden exchange point is worth the extra coin to discerning clientele.*
 
-Interrogation Chamber: You get **+1d** to Command and Sway on-site. *Grisly business, but effective.*
+Interrogation Chamber: You get **+1d** to **Command** and Sway on-site. *Grisly business, but effective.*
 
 Loyal Fence: You get **+2** coin in **payoff** for scores that involve burglary or robbery. *It requires a skilled eye and good contacts to move stolen goods.*
 
@@ -1477,7 +1466,7 @@ Create seven special abilities for your crew. Here are several examples.
 
 ### Deadly
 
-Each PC may add +1 action rating to Hunt, Prowl, or Skirmish (up to a max rating of 3).
+Each PC may add +1 action rating to **Hunt**, **Prowl**, or **Skirmish** (up to a max rating of 3).
 
 > Each player may choose the action they prefer (you don’t all have to choose the same one). If you take this ability during initial character and crew creation, it supersedes the normal starting limit for action ratings.
 
@@ -1547,7 +1536,7 @@ When you execute a clandestine infiltration, you get **+1d** to the **engagement
 
 When you perform a **group action**, you may count multiple 6s from different rolls as a critical success.
 
-> For example, Lyric leads a group action to Attune to the ghost field to overcome a magical ward on the Dimmer Sisters’ door. Emily, Lyric’s player, rolls and gets a 6, and so does Matt! Because the crew has Synchronized, their two separate 6s count as a critical success on the roll.
+> For example, Lyric leads a group action to **Attune** to the ghost field to overcome a magical ward on the Dimmer Sisters’ door. Emily, Lyric’s player, rolls and gets a 6, and so does Matt! Because the crew has Synchronized, their two separate 6s count as a critical success on the roll.
 
 ### All hands
 
@@ -1667,7 +1656,7 @@ A flashback isn’t time travel. It can’t “undo” something that just occur
 >
 > “Ha! Nice. Okay, that’s seems a bit tricky, dealing with ornery goats and all... 1 stress.”
 >
-> “Should I roll Prowl to sneak in and plant it?”
+> “Should I roll **Prowl** to sneak in and plant it?”
 >
 > “Nah. Their goat stable security amounts to a stable boy who is usually asleep anyway. You can easily avoid their notice.”
 >
@@ -1718,11 +1707,11 @@ When you lead a group action, you coordinate multiple members of the team to tac
 
 Each PC who’s involved makes an **action roll** (using the same action) and **the team counts the single best result** as the overall effort for everyone who rolled. However, the character leading the group action takes **1 stress** for each PC that rolled 1-3 as their best result.
 
-> This is how you do the “we all sneak into the building” scene. Everyone who wants to sneak in rolls their Prowl action, and the best result counts for the whole team. The leader suffers stress for everyone who does poorly. It’s tough covering for the stragglers.
+> This is how you do the “we all sneak into the building” scene. Everyone who wants to sneak in rolls their **Prowl** action, and the best result counts for the whole team. The leader suffers stress for everyone who does poorly. It’s tough covering for the stragglers.
 
 **The group action result covers everyone who rolled.** If you don’t roll, your character doesn’t get the effects of the action.
 
-Your character doesn’t have to be especially skilled at the action at hand in order to lead a group action. This maneuver is about leadership, not necessarily about ability. You can also lead your crew’s **cohorts** with a group action. Roll Command if you direct their efforts, or roll the appropriate action rating if you participate alongside them. The cohort rolls its **quality** level.
+Your character doesn’t have to be especially skilled at the action at hand in order to lead a group action. This maneuver is about leadership, not necessarily about ability. You can also lead your crew’s **cohorts** with a group action. Roll **Command** if you direct their efforts, or roll the appropriate action rating if you participate alongside them. The cohort rolls its **quality** level.
 
 ### Protect
 
@@ -1734,7 +1723,7 @@ You step in to face a consequence that one of your teammates would otherwise fac
 
 When you perform a setup action, you have an indirect effect on an obstacle. If your action has its intended result, any member of the team who follows through on your maneuver gets **+1 effect level** or **improved position** for their roll. You choose the benefit, based on the nature of your setup action.
 
-> This is how you do the “I’ll create a distraction” scene. You roll Sway to distract a constable with your charms, then any teammate who follows through with a Prowl action to sneak past him can get improved position. It’s less risky since you’re drawing the guard’s attention.
+> This is how you do the “I’ll create a distraction” scene. You roll Sway to distract a constable with your charms, then any teammate who follows through with a **Prowl** action to sneak past him can get improved position. It’s less risky since you’re drawing the guard’s attention.
 
 This is a good way to contribute to an operation when you don’t have a good rating in the action at hand. A clever setup action lets you help the team indirectly. Multiple follow-up actions may take advantage of your setup (including someone **leading** a group action) as long as it makes sense in the fiction.
 
@@ -2003,7 +1992,7 @@ Whenever you suffer new harm, clear any ticks on your healing clock.
 
 ### Reduce heat
 
-Say what your character does to reduce the heat level of the crew and make an action roll. Maybe you Consort with your friend who’s a officer and she arranges for a few incriminating Watch reports to disappear. Or maybe you Command the fear of the local citizens so they’re afraid to snitch.
+Say what your character does to reduce the heat level of the crew and make an action roll. Maybe you Consort with your friend who’s a officer and she arranges for a few incriminating Watch reports to disappear. Or maybe you **Command** the fear of the local citizens so they’re afraid to snitch.
 
 Reduce heat according to the result: 1-3: one, 4/5: two, 6: three, critical: five.
 
@@ -2108,7 +2097,7 @@ Once the source of a ritual is found, you may undertake a long-term project to l
 ### Ritual Questions
 
 1. GM asks: **“What does the ritual do and how is it weird?”** Player answers.
-2. Player asks: **“What must I do to perform the ritual, and what is its price?”** GM answers. A ritual takes at least one downtime activity to perform and inflicts **stress** on the caster according to its **magnitude**. If performance of the ritual is dangerous or troublesome in some way, it requires an action roll (usually Attune). A ritual may also have additional costs, such as a sacrifice, rare item, the start of a dire progress clock, etc.
+2. Player asks: **“What must I do to perform the ritual, and what is its price?”** GM answers. A ritual takes at least one downtime activity to perform and inflicts **stress** on the caster according to its **magnitude**. If performance of the ritual is dangerous or troublesome in some way, it requires an action roll (usually **Attune**). A ritual may also have additional costs, such as a sacrifice, rare item, the start of a dire progress clock, etc.
 3. GM asks: **“What new belief or fear does knowledge of this ritual and its attendant occult forces instill in you?”** Player answers.
 
 ### Example Ritual Answers
@@ -2129,7 +2118,7 @@ When you perform a ritual, you take an amount of **stress** as established by th
 
 The GM may also **tick a progress clock** when you perform a ritual—to advance the agenda of an arcane power or entity, or to show the steady approach of a dark outcome that is a consequence of the ritual’s use.
 
-If a ritual is dangerous or troublesome to perform, make an **action roll** (usually Attune) to see if unpleasant consequences manifest. If a ritual has an uncertain effect then a **fortune roll** should be made to see how well it manifests. Because a ritual is a downtime activity, you may spend coin 1-for-1 to increase the result level of your fortune roll (this represents the expenditure of expensive or rare ritual materials). If a ritual is both dangerous and uncertain, then both rolls may be called for.
+If a ritual is dangerous or troublesome to perform, make an **action roll** (usually **Attune**) to see if unpleasant consequences manifest. If a ritual has an uncertain effect then a **fortune roll** should be made to see how well it manifests. Because a ritual is a downtime activity, you may spend coin 1-for-1 to increase the result level of your fortune roll (this represents the expenditure of expensive or rare ritual materials). If a ritual is both dangerous and uncertain, then both rolls may be called for.
 
 Each performance of a ritual is a unique event, and may not always work the same way each time. The GM or players may call for a round of questions to establish a ritual anew. Rituals are a way to bring in a wide variety of arcane effects into the game. Use with caution! If you ever go overboard, address the questions again to establish new weirdness and costs if things have gotten out of hand. The abyssal forces are not playthings and cannot be considered a reliable or safe source of power.
 
