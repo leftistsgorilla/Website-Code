@@ -10,7 +10,7 @@
 
 ### The Setting
 
-*Moon's Haunted (Working Title)* takes place in the haunted lunar dystopia of **Dianis** in the 26th century. Originally built as a penal colony for the genetically and cybernetically enhanced, Dianis is now the capital of the **Lunar Salvation State**, the authoritarian government that claims sole power over the remnants of humanity. Ruling with an iron fist, the LSS is empowered by technology developed from the **Carcass of Ur**, the enormous corpse of a long-dead god buried deep beneath the Moon's surface. **Earth** has been reduced to a husk-planet by the **Eye of Calamity**, a psychic superweapon that ended the **Terran-Lunar War** and forced the remainder of humanity to emigrate to the Moon. The ruling **United National Party** is bogged down by corruption and run by aging plutocrats, their bodies and minds stretched far past their natural limit by sinister sciences. Inhabitants of Dianis regularly undergo genetic and mechanical modifications to their bodies, with results varying between awe-inspiring and terrifying. While grey-uniformed agents of the **Lunar Defense Forces** patrol the streets meting out their own twisted form of the "law", **ghosts**, **demons**, and **mutants** lurk in the alleys and service tunnels. While explanations for these creatures range from the alien to the divine, they are all undoubtedly connected to the **Web**, a mysterious psychic field that seems to permeate the entire city and originate from the Carcass. While the Web is most commonly used for communication and human-machine interface, it is also harnessed for darker aims, blending tissue and circuitry to new and horrifying ends. Though it is *de jure* under the sole control of the LSS, the Web has spawned a number of mysterious anomalies, most notable among which are the **God-Children**, seemingly immortal beings who now walk among the city’s citizens, gathering supplicants and leaving mysteries in their wake.
+*Moon's Haunted (Working Title)* takes place in the haunted lunar dystopia of **Dianis** in the 26th century. Originally built as a penal colony for the genetically and cybernetically enhanced, Dianis is now the capital of the **Lunar Salvation State**, the authoritarian government that claims sole power over the remnants of humanity. Ruling with an iron fist, the LSS is empowered by technology developed from the **Carcass of Theia**, the enormous corpse of a long-dead goddess buried deep beneath the Moon's surface. **Earth** has been reduced to a husk-planet by the **Eye of Calamity**, a psychic superweapon that ended the **Terran-Lunar War** and forced the remainder of humanity to emigrate to the Moon. The ruling **United National Party** is bogged down by corruption and run by aging plutocrats, their bodies and minds stretched far past their natural limit by sinister sciences. Inhabitants of Dianis regularly undergo genetic and mechanical modifications to their bodies, with results varying between awe-inspiring and terrifying. While grey-uniformed agents of the **Lunar Defense Forces** patrol the streets meting out their own twisted form of the "law", **ghosts**, **demons**, and **mutants** lurk in the alleys and service tunnels. While explanations for these creatures range from the alien to the divine, they are all undoubtedly connected to the **Web**, a mysterious psychic field that seems to permeate the entire city and originate from the Carcass. While the Web is most commonly used for communication and human-machine interface, it is also harnessed for darker aims, blending tissue and circuitry to new and horrifying ends. Though it is *de jure* under the sole control of the LSS, the Web has spawned a number of mysterious anomalies, most notable among which are the **God-Children**, seemingly immortal beings who now walk among the city’s citizens, gathering supplicants and leaving mysteries in their wake.
 
 ### The Players
 
@@ -40,7 +40,7 @@ During a session, the crew of scoundrels works together to choose a score to acc
 
 ### Touchstones
 
-*Katana Zero* by Justin Stander. *Alien* by Ridley Scott. *Warhammer 40K* by Games Workshop. *Magic: the Gathering – New Phyrexia* by Wizard of the Coast. *Annihilation* by Jeff VanderMeer. *The City of Ember* by Jeanne DuPrau. *The Matrix* by the Wachowski Sisters. *Minority Report* by Steven Spielberg. *Snowpiercer* by Bong-Joon Ho. *Bioshock* by 2K Boston. *Neon Genesis Evangelion* by Hideaki Anno. *The Expanse* by James S. A. Corey. *1984* by George Orwell. *Paranoia* by West End Games. *Apex* and *Abyss* by Unleash the Archers. *Doom (2016)* and *Doom Eternal* by Id Software.
+*Katana Zero* by Justin Stander. *Alien* by Ridley Scott. *Warhammer 40K* by Games Workshop. *Magic: the Gathering – New Phyrexia* by Wizard of the Coast. *Annihilation* by Jeff VanderMeer. *The City of Ember* by Jeanne DuPrau. *The Matrix* by the Wachowski Sisters. *Minority Report* by Steven Spielberg. *Snowpiercer* by Bong-Joon Ho. *Bioshock* by 2K Boston. *Neon Genesis Evangelion* by Hideaki Anno. *The Expanse* by James S. A. Corey. *1984* by George Orwell. *Paranoia* by West End Games. *Apex* and *Abyss* by Unleash the Archers. *Doom (2016)* and *Doom Eternal* by Id Software. *Metal Gear Rising: Revengeance* by Platinum Games.
 
 ### Theme Song
 
@@ -2175,3 +2175,29 @@ A creation or modification may have one or more drawbacks, chosen by the GM.
 * Rare. This creation requires a rare item or material when it is crafted.
 * Unreliable. When you use the item, make a fortune roll (using its **quality**) to see how well it performs.
 * Volatile. The item produces a dangerous or troublesome side-effect for the user, specified by the GM (see examples on the sample creations, next page). A side-effect is a consequence, and may be **resisted**.
+
+## The World of *Moon's Haunted (Working Title*
+
+### A Brief History of Dianis
+
+> **4.25 billion years BCE** — Battle between unknown cosmic forces ends with enormous corpse of deity Theia being thrown at Earth. Debris from impact forms the Moon, with Theia's body sealed within.
+>
+> **1969 CE** — Neil Armstrong and Buzz Aldrin of the *Apollo 11* mission become first humans to step foot on the lunar surface.
+>
+> **2026 CE** — Artemis III lunar lander impacts with lunar surface, killing all four crewmembers aboard. US government claims "unprecedented electromagnetic activity." Artemis program permanently scrapped. Conspiracies abound.
+>
+> **Early 2082 CE** — Russian Empire, Chinese Peoples' Alliance, American Federation, State of Brazil, Greater South Africa, Indian National Republic form International Security Pact (ISP) to "secure a safe and prosperous future for humanity." Pitched as economic agreement, becomes global alliance of authoritarian states.
+>
+> **2083 CE** — ISP leadership begins to undergo experimental cybernetic augmentation in name of "ensuring continuity of government." Results in creation of Titan caste of superhuman warlords.
+>
+> **2122 CE** — Global effort topples ISP against all odds after massive mutinies and strikes. Earth rejoices, Titans exiled to new Lunar penal colony of Dianis, deemed too dangerous to let live but impossible to kill by any means on Earth.
+> 
+> **Late 2123 CE** — Imprisoned Titans accidentally unearth Theia's Corpse below Dianis during tunnel expansion. Religions scramble for answers: Is God dead? Did we kill Her?
+>
+> **Early 2124 CE** — Dianis inmates stage prison break, overpowering robotic guards and seizing control of colony with the rumored help of newfound psychic powers. Earth leadership incredulous as Dianis declares itself humanity's sole legitimate government.
+>
+> **2125 CE** — Dianis, now calling itself the Lunar Salvation State, declares war on all Earth governments. LSS sympathizers wage proxy conflicts across the globe. The Terran-Lunar War is hell. Casualties in the millions within weeks.
+>
+> **2132 CE** — Tenuous ceasefire reached. Cold war breaks out between Earth and Moon. LSS immediately begins development of Corpse-powered superweapon.
+>
+> **2135 CE** — LSS deploys Eye of Calamity against Earth, no warning given. 90% of human population dead within minutes as atmosphere ignites. No government left to surrender, LSS declares victory.
