@@ -2191,7 +2191,7 @@ A creation or modification may have one or more drawbacks, chosen by the GM.
 > **2083 CE** — ISP leadership begins to undergo experimental cybernetic augmentation in name of "ensuring continuity of government." Results in creation of Titan caste of superhuman warlords.
 >
 > **2122 CE** — Global effort topples ISP against all odds after massive mutinies and strikes. Earth rejoices, Titans exiled to new Lunar penal colony of Dianis, deemed too dangerous to let live but impossible to kill by any means on Earth.
-> 
+>
 > **Late 2123 CE** — Imprisoned Titans accidentally unearth Theia's Corpse below Dianis during tunnel expansion. Religions scramble for answers: Is God dead? Did we kill Her?
 >
 > **Early 2124 CE** — Dianis inmates stage prison break, overpowering robotic guards and seizing control of colony with the rumored help of newfound psychic powers. Earth leadership incredulous as Dianis declares itself humanity's sole legitimate government.
@@ -2201,3 +2201,4 @@ A creation or modification may have one or more drawbacks, chosen by the GM.
 > **2132 CE** — Tenuous ceasefire reached. Cold war breaks out between Earth and Moon. LSS immediately begins development of Corpse-powered superweapon.
 >
 > **2135 CE** — LSS deploys Eye of Calamity against Earth, no warning given. 90% of human population dead within minutes as atmosphere ignites. No government left to surrender, LSS declares victory.
+>
