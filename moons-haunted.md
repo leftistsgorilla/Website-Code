@@ -806,9 +806,7 @@ Of course, you’ll also have your specializations and skills, the qualities tha
 
 ### Choose a playbook
 
-A playbook is what we call the sheet with all the specific rules to play a certain character type in a *Moon's Haunted (Working Title)* game. For example, you might create a playbook called a **Soldier**, with special abilities related to battle, or a playbook called a **Medic**, with special abilities related to field medicine.
-
-When you choose a playbook, you’re choosing a set of **special abilities** (which give your character ways to break the rules in various ways) and a set of **XP triggers** (which determine how you earn experience for character advancement). But every playbook represents a scoundrel at heart. The Cutter has special abilities related to combat, but that doesn’t mean they’re “the fighter” of the game. Any character type can fight well. Think of your playbook as an area of focus and preference, but not a unique skill set.
+A playbook is what we call the sheet with all the specific rules to play a certain character type in a *Moon's Haunted (Working Title)* game. When you choose a playbook, you’re choosing a set of **special abilities** (which give your character ways to break the rules in various ways) and a set of **XP triggers** (which determine how you earn experience for character advancement). But every playbook represents a scoundrel at heart. The Muscle has special abilities related to combat, but that doesn’t mean they’re “the fighter” of the game. Any character type can fight well. Think of your playbook as an area of focus and preference, but not a unique skill set.
 
 This is why we call them “playbooks” rather than “character classes” or “archetypes.” You’re selecting the set of initial action ratings and special abilities that your character has access to—but you’re not defining their immutable essence or true nature. Your character will grow and change over time; who they become is part of the fun of playing the game.
 
@@ -899,9 +897,55 @@ Some items count as two items for load (they have two connected boxes). *Items i
 
 You don’t need to select specific items now. Review your personal items and the standard item descriptions.
 
-## Character playbook
+## Character Playbooks
 
-### Short Descriptor of Character
+The eight basic playbooks are as follows:
+> **The Fist** — Force and intimidation.
+> 
+> **The Face** — Charisma and confidence.
+> 
+> **The Eye** - Knowledge and the occult.
+> 
+> **The Foot** - Stealth and subterfuge.
+> 
+> **The Brain** — Invention and mayhem.
+> 
+> **The Hand** — Calculation and conspiracy.
+> 
+> **The Tooth** — Tracking and violence.
+
+@TODO update descriptions
+### The Muscle
+
+#### Short Descriptor of Character
+
+Medium length description of the character here. Include what kind of activities they normally partake in.
+
+**Include the XP triggers for the characters here.** At the end of a session mark XP if you addressed a challenge with: insert a short list of methods or actions here. Examples could include: violence, coersion, knowledge, charm, audacity, calculation, deception, influence, stealth, evasion, technical skill, mayham, tracking, or occult powers.
+
+@TODO tables 51
+
+#### Starting builds
+
+*If you want some guidance when you assign your four starting action dots and special ability, use one of these templates.*
+
+**Example 1.** 4 Action Dots assigned plus a special ability
+
+**Example 2.** 4 Action Dots assigned plus a special ability
+
+**Example 3.** 4 Action Dots assigned plus a special ability
+
+**Example 4.** 4 Action Dots assigned plus a special ability
+
+#### Friends, rivals
+
+A list of five possible friends or rivals go here, along with descriptions of each. Some possibilities include: A spy, a bounty hunter, a pugalist, a cold killer, an extortionist, a physicker, an assassin, a sentinel, an apothocary, a priestess, a noble, a city clerk, an officer, an inspector, a beggar, a locksmith, a gang leader, a drug dealer, a tavern owner, a sex worker, a jail-bird, an information broker, a servant, an archivist, or a supernatural entitity.
+
+Questions can inlclue how you know the friend, what they’ve done for you, what you do for them, and what kind of relationship you have.
+
+## Character Playbook Creation
+
+### Example Short Descriptor of Character
 
 Medium length description of the character here. Include what kind of activities they normally partake in.
 
@@ -929,7 +973,7 @@ Questions can inlclue how you know the friend, what they’ve done for you, what
 
 ### Special abilities
 
-Choose seven special abilities for you playbook. Here are several examples.
+Choose seven special abilities for your playbook. Here are several examples.
 
 ### Battleborn
 
