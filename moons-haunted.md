@@ -2254,12 +2254,3 @@ A creation or modification may have one or more drawbacks, chosen by the GM.
 > **May 2102 CE** — ISP leadership signs into law the *Treaty of Unification*, liquidating all member states' federal governments and placing sole control in the hands of the ISP. Widespread protests against the treaty are brutally crushed by ISP loyalist factions within Earth militaries and police forces.
 > 
 > **June 2103** — Geologic surveying operation below Dianis discovers "unknown biological material of extralunar origin" in the form of a dessicated corpse tens of kilometers long, designated "Theia" by ISP scientists. Announcement of discovery sends ripples through humanity and begins to erode faith in religious institutions, who fail to provide answers to the corpse's origin.
-> 
-> **September 2102** —
->
-> **2122 CE** — Global effort topples ISP against all odds after massive mutinies and strikes. Earth rejoices, Titans exiled to new Lunar penal colony of Dianis, deemed too dangerous to let live but impossible to kill by any means on Earth.
-> 
-> **2132 CE** — Tenuous ceasefire reached after UNE forces manage to detonate two nuclear warheads in low Lunar orbit, creating an enormous electromagnetic event that disables most electronic technology on Dianis.
->
-> **2135 CE** — LSS deploys Eye of Calamity against Earth, no warning given. 90% of human population dead within minutes as atmosphere ignites. No government left to surrender, LSS declares victory.
->
