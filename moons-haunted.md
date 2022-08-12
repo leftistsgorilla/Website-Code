@@ -900,9 +900,9 @@ You don’t need to select specific items now. Review your personal items and th
 ## Character Playbooks
 
 The eight basic playbooks are as follows:
-> **The Fist** — Force and intimidation.
+> **The Fist** — Force and intimidation. 
 > 
-> **The Face** — Charisma and confidence.
+> **The Face** — Charisma and deception.
 > 
 > **The Eye** - Knowledge and the occult.
 > 
@@ -912,10 +912,10 @@ The eight basic playbooks are as follows:
 > 
 > **The Hand** — Calculation and conspiracy.
 > 
-> **The Tooth** — Tracking and violence.
+> **The Tooth** — Investigation and violence.
 
-@TODO update descriptions
-### The Muscle
+@TODO update descriptions to be more complete
+### The Fist
 
 #### Short Descriptor of Character
 
@@ -929,13 +929,13 @@ Medium length description of the character here. Include what kind of activities
 
 *If you want some guidance when you assign your four starting action dots and special ability, use one of these templates.*
 
-**Example 1.** 4 Action Dots assigned plus a special ability
+**The Sledgehammer** 4 Action Dots assigned plus a special ability
 
-**Example 2.** 4 Action Dots assigned plus a special ability
+**The Broadsword** 4 Action Dots assigned plus a special ability
 
-**Example 3.** 4 Action Dots assigned plus a special ability
+**The Blackjack** 4 Action Dots assigned plus a special ability
 
-**Example 4.** 4 Action Dots assigned plus a special ability
+**The Drill** 4 Action Dots assigned plus a special ability
 
 #### Friends, rivals
 
@@ -2220,29 +2220,46 @@ A creation or modification may have one or more drawbacks, chosen by the GM.
 * Unreliable. When you use the item, make a fortune roll (using its **quality**) to see how well it performs.
 * Volatile. The item produces a dangerous or troublesome side-effect for the user, specified by the GM (see examples on the sample creations, next page). A side-effect is a consequence, and may be **resisted**.
 
-## The World of *Moon's Haunted (Working Title*
+## The World of *Moon's Haunted (Working Title)*
 
-### A Brief History of Dianis
-
-> **4.25 billion years BCE** — Battle between unknown cosmic forces ends with enormous corpse of deity Theia being thrown at Earth. Debris from impact forms the Moon, with Theia's body sealed within.
+### A Brief Timeline of Events
+> **July 1969 CE** — Neil Armstrong and Buzz Aldrin of the *Apollo 11* mission become first humans to step foot on the lunar surface.
 >
-> **1969 CE** — Neil Armstrong and Buzz Aldrin of the *Apollo 11* mission become first humans to step foot on the lunar surface.
+> **August 2026 CE** — Artemis III lunar lander impacts with lunar surface, killing all four crewmembers aboard. US government claims "unprecedented electromagnetic activity." Artemis program permanently scrapped.
 >
-> **2026 CE** — Artemis III lunar lander impacts with lunar surface, killing all four crewmembers aboard. US government claims "unprecedented electromagnetic activity." Artemis program permanently scrapped. Conspiracies abound.
+> **October 2051 CE** — India, US, Russia, China, UK, Japan, and Israel announce the Final Frontier Program, a new joint lunar program with the eventual goal of a self-sustaing colony in the Kepler Crater. All private space programs within the countries are nationalized and their assets seized.
+> 
+> **January 2058 CE** — Seawall around New York City fails, flooding Manhattan, hundreds of thousands missing or dead.
+> 
+> **April 2068 CE** — FFP research team in Sheffield, UK successfully achieve first self-sustaining nuclear fusion reaction.
+> 
+> **October 2072 CE** — Contruction completed on Von Braun Station, the first shipbuilding yard in Earth orbit. 
+> 
+> **March 2083 CE** — FFP announces development of *Atlantic*-class space carrier, first interplanetary shuttle designed for entirely non-atmospheric travel.
+> 
+> **September 2090 CE** — First *Atlantic*-class carrier, the *JSC (Joint Space Craft) Diana* completes its maiden voyage to the moon, transporting 500 people and construction materials for two lunar bases. 
+> 
+> **January 2093 CE** — *JSC Diana* is joined by four more *Atlantic*-class transports: *JSC Chang Xi, JSC Chandra, JSC Tsukuyomi, and JSC Saint Nicholas*. FFP now has capabilities to transport 2500 new personnel to lunar bases every month, "space fever" is at an all-time high.
 >
-> **Early 2082 CE** — Russian Empire, Chinese Peoples' Alliance, American Federation, State of Brazil, Greater South Africa, Indian National Republic form International Security Pact (ISP) to "secure a safe and prosperous future for humanity." Pitched as economic agreement, becomes global alliance of authoritarian states.
+> **March 2094 CE** — Dianis, the first permanent human lunar settlement, is established. Population of 41,000, governed jointly by FFP member states, primarily a research and mining station.
 >
-> **2083 CE** — ISP leadership begins to undergo experimental cybernetic augmentation in name of "ensuring continuity of government." Results in creation of Titan caste of superhuman warlords.
+> **June 2101 CE** — US comes under criticism for controversial Lunar extradition and rumored torture of environmentalist dissident Helena Diaz. US declares that Dianis is outside UN jurisdiction, sparking international condemnation. FFP member states rally around US decision and begin similar extradition campaigns. Australian news media coins the phrase "Guantana-Moon".
+>
+> **November 2101 CE** — ISP announces beginning of joint nuclear program headquartered on Dianis, in blatant violation of UN Outer Space Treaty. United Nations votes to reform into United Nations of Earth, bringing all military forces of member nations under the sole control of the UNSC.
+>
+> **February 2102 CE** — All United Nations Security Council's permanent members unanimously vote to dissolve the Outer Space Treaty, leave the UN, and form new International Security Pact, headquartered in Dianis. Rest of FFP member nations likewise leave UN and declare alliegance to ISP.
+> 
+> **March 2102 CE** — UN Security Council, now headed by Mexico, Germany, Canada, Australian Commonwealth, and United Republic of Korea, announce strict sanctions against ISP member states, resulting in a global economic crisis as prices skyrocket nearly overnight.
+> 
+> **May 2102 CE** — ISP leadership signs into law the *Treaty of Unification*, liquidating all member states' federal governments and placing sole control in the hands of the ISP. Widespread protests against the treaty are brutally crushed by ISP loyalist factions within Earth militaries and police forces.
+> 
+> **June 2103** — Geologic surveying operation below Dianis discovers "unknown biological material of extralunar origin" in the form of a dessicated corpse tens of kilometers long, designated "Theia" by ISP scientists. Announcement of discovery sends ripples through humanity and begins to erode faith in religious institutions, who fail to provide answers to the corpse's origin.
+> 
+> **September 2102** —
 >
 > **2122 CE** — Global effort topples ISP against all odds after massive mutinies and strikes. Earth rejoices, Titans exiled to new Lunar penal colony of Dianis, deemed too dangerous to let live but impossible to kill by any means on Earth.
->
-> **Late 2123 CE** — Imprisoned Titans accidentally unearth Theia's Corpse below Dianis during tunnel expansion. Religions scramble for answers: Is God dead? Did we kill Her?
->
-> **Early 2124 CE** — Dianis inmates stage prison break, overpowering robotic guards and seizing control of colony with the rumored help of newfound psychic powers. Earth leadership incredulous as Dianis declares itself humanity's sole legitimate government.
->
-> **2125 CE** — Dianis, now calling itself the Lunar Salvation State, declares war on all Earth governments. LSS sympathizers wage proxy conflicts across the globe. The Terran-Lunar War is hell. Casualties in the millions within weeks.
->
-> **2132 CE** — Tenuous ceasefire reached. Cold war breaks out between Earth and Moon. LSS immediately begins development of Corpse-powered superweapon.
+> 
+> **2132 CE** — Tenuous ceasefire reached after UNE forces manage to detonate two nuclear warheads in low Lunar orbit, creating an enormous electromagnetic event that disables most electronic technology on Dianis.
 >
 > **2135 CE** — LSS deploys Eye of Calamity against Earth, no warning given. 90% of human population dead within minutes as atmosphere ignites. No government left to surrender, LSS declares victory.
 >
