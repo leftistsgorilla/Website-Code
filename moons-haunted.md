@@ -2226,20 +2226,18 @@ A creation or modification may have one or more drawbacks, chosen by the GM.
 > **July 1969 CE** — Neil Armstrong and Buzz Aldrin of the *Apollo 11* mission become first humans to step foot on the lunar surface.
 >
 > **August 2026 CE** — Artemis III lunar lander impacts with lunar surface, killing all four crewmembers aboard. US government claims "unprecedented electromagnetic activity." Artemis program permanently scrapped.
->
-> **October 2051 CE** — India, US, Russia, China, UK, Japan, and Israel announce the Final Frontier Program, a new joint lunar program with the eventual goal of a self-sustaing colony in the Kepler Crater. All private space programs within the countries are nationalized and their assets seized.
 > 
-> **January 2058 CE** — Seawall around New York City fails, flooding Manhattan, hundreds of thousands missing or dead.
+> **January 2043 CE** — Seawall around New York City fails, flooding Manhattan, hundreds of thousands missing and presumed dead. 
+> 
+> **October 2051 CE** — India, US, Russia, China, UK, Japan, and Israel announce the Final Frontier Program, a new joint lunar program with the eventual goal of a self-sustaing colony in the Kepler Crater. All private space programs within the countries are nationalized and their assets seized.
 > 
 > **April 2068 CE** — FFP research team in Sheffield, UK successfully achieve first self-sustaining nuclear fusion reaction.
 > 
-> **October 2072 CE** — Contruction completed on Von Braun Station, the first shipbuilding yard in Earth orbit. 
+> **October 2072 CE** — Contruction is completed on the FFP-sponsored Von Braun Station, the first shipbuilding yard in Earth orbit.
 > 
-> **March 2083 CE** — FFP announces development of *Atlantic*-class space carrier, first interplanetary shuttle designed for entirely non-atmospheric travel.
+> **March 2083 CE** — FFP announces development of *Atlantic*-class space carrier, interplanetary shuttle designed for travel between Earth orbit and Lunar surface.
 > 
-> **September 2090 CE** — First *Atlantic*-class carrier, the *JSC (Joint Space Craft) Diana* completes its maiden voyage to the moon, transporting 500 people and construction materials for two lunar bases. 
-> 
-> **January 2093 CE** — *JSC Diana* is joined by four more *Atlantic*-class transports: *JSC Chang Xi, JSC Chandra, JSC Tsukuyomi, and JSC Saint Nicholas*. FFP now has capabilities to transport 2500 new personnel to lunar bases every month, "space fever" is at an all-time high.
+> **September 2090 CE** — First *Atlantic*-class space transport, the *NSS St. Joseph Cupertino*, completes its maiden voyage to the moon, transporting 500 people and construction materials for two lunar bases.
 >
 > **March 2094 CE** — Dianis, the first permanent human lunar settlement, is established. Population of 41,000, governed jointly by FFP member states, primarily a research and mining station.
 >
