@@ -10,7 +10,7 @@
 
 ### The Setting
 
-*Moon's Haunted (Working Title)* takes place in the haunted lunar dystopia of **Dianis** in the 26th century. Originally built as a penal colony for the genetically and cybernetically enhanced, Dianis is now the capital of the **Lunar Salvation State**, the authoritarian government that claims sole power over the remnants of humanity. Ruling with an iron fist, the LSS is empowered by technology developed from the **Carcass of Theia**, the enormous corpse of a long-dead goddess buried deep beneath the Moon's surface. **Earth** has been reduced to a husk-planet by the **Eye of Calamity**, a psychic superweapon that ended the **Terran-Lunar War** and forced the remainder of humanity to emigrate to the Moon. The ruling **United National Party** is bogged down by corruption and run by aging plutocrats, their bodies and minds stretched far past their natural limit by sinister sciences. Inhabitants of Dianis regularly undergo genetic and mechanical modifications to their bodies, with results varying between awe-inspiring and terrifying. While grey-uniformed agents of the **Lunar Defense Forces** patrol the streets meting out their own twisted form of the "law", **ghosts**, **demons**, and **mutants** lurk in the alleys and service tunnels. While explanations for these creatures range from the alien to the divine, they are all undoubtedly connected to the **Web**, a mysterious electro-psychic field that seems to permeate the entire city and originate from the Carcass. While the Web is most commonly used for digital communication and human-machine interface, it is also harnessed for darker aims, aiding in the blending of tissue and circuitry to new and horrifying ends. Though it is *de jure* under the sole control of the LSS, the Web has spawned a number of mysterious anomalies, most notable among which are the **God-Children**, seemingly immortal beings who now walk among the city’s citizens, gathering supplicants and leaving mysteries in their wake.
+*Moon's Haunted (Working Title)* takes place in the haunted lunar dystopia of **Dianis** in the 22rd century. Originally built as a penal colony for the genetically and cybernetically enhanced, Dianis is now the capital of the **Lunar Salvation State**, the authoritarian government that claims sole power over the remnants of humanity. Ruling with an iron fist, the LSS is empowered by technology developed from the **Carcass of Theia**, the enormous corpse of a long-dead goddess buried deep beneath the Moon's surface. **Earth** has been reduced to a husk-planet by the **Eye of Calamity**, a psychic superweapon that ended the **Terran-Lunar War** and forced the remainder of humanity to emigrate to the Moon. The ruling **United National Party** is bogged down by corruption and run by aging plutocrats, their bodies and minds stretched far past their natural limit by sinister sciences. Inhabitants of Dianis regularly undergo genetic and mechanical modifications to their bodies, with results varying between awe-inspiring and terrifying. While grey-uniformed agents of the **Lunar Defense Forces** patrol the streets meting out their own twisted form of the "law", **ghosts**, **demons**, and **mutants** lurk in the alleys and service tunnels. While explanations for these creatures range from the alien to the divine, they are all undoubtedly connected to the **Web**, a mysterious electro-psychic field that seems to permeate the entire city and originate from the Carcass. While the Web is most commonly used for digital communication and human-machine interface, it is also harnessed for darker aims, aiding in the blending of tissue and circuitry to new and horrifying ends. Though it is *de jure* under the sole control of the LSS, the Web has spawned a number of mysterious anomalies, most notable among which are the **God-Children**, seemingly immortal beings who now walk among the city’s citizens, gathering supplicants and leaving mysteries in their wake.
 
 ### The Players
 
@@ -900,48 +900,87 @@ You don’t need to select specific items now. Review your personal items and th
 ## Character Playbooks
 
 The eight basic playbooks are as follows:
-> **The Fist** — Force and intimidation. 
+> **The Brain** — Invention and mayhem.
 > 
-> **The Face** — Charisma and deception.
+> **The Breath** - Stealth and subterfuge.
 > 
 > **The Eye** - Knowledge and the occult.
 > 
-> **The Foot** - Stealth and subterfuge.
+> **The Face** — Charisma and deception.
 > 
-> **The Brain** — Invention and mayhem.
+> **The Fang** — Investigation and violence.
 > 
 > **The Hand** — Calculation and conspiracy.
 > 
-> **The Tooth** — Investigation and violence.
+> **The Muscle** — Force and intimidation. 
 
 @TODO update descriptions to be more complete
-### The Fist
+
+
+### The Hand
 
 #### Short Descriptor of Character
 
 Medium length description of the character here. Include what kind of activities they normally partake in.
 
-**Include the XP triggers for the characters here.** At the end of a session mark XP if you addressed a challenge with: insert a short list of methods or actions here. Examples could include: violence, coersion, knowledge, charm, audacity, calculation, deception, influence, stealth, evasion, technical skill, mayham, tracking, or occult powers.
+When creating your character, you start with +2 Consort and +1 Study.
 
-@TODO tables 51
+As the **Hand**, you gain XP whenever you solve a problem with calculation or conspiracy.
 
-#### Starting builds
+#### Friends and Rivals
 
-*If you want some guidance when you assign your four starting action dots and special ability, use one of these templates.*
+An overworked bureaucrat, a desperate gang leader, a canny servant, a notorious gossipmonger, an aging union organizer.
 
-**The Sledgehammer** 4 Action Dots assigned plus a special ability
+Questions can include how you know the friend, what they’ve done for you, what you do for them, and what kind of relationship you have.
 
-**The Broadsword** 4 Action Dots assigned plus a special ability
+#### Special Abilities
+> **Calculating** — Due to your careful planning, during downtime, you may give yourself or another crew member **+1 downtime activity**. If you forget to use this ability during downtime, you can still activate it during the score and flashback to the previous downtime when the extra activity happened. *Are you extremely organized? Can you create and edit spreadsheets in your head with the help of a stolen office implant?*
+> 
+> **Connected** — During downtime, you get **+1 result level** when you **acquire an asset** or **reduce heat**. Your array of underworld connections can be leveraged to loan assets, pressure a vendor to give you a better deal, intimidate witnesses, etc. *What sort of people or entities owe you favors? Do you have a double life or a sordid past?*
+> 
+> **Foresight** — Two times per score you can **assist** a teammate without paying stress. Describe how you prepared for this. You can narrate an event in the past that helps your teammate now, or you might explain how you expected this situation and planned a helpful contingency that you reveal now. *Do you and any of your teammates share a special bond? Can you tap into the Web to divine the future?*
+> 
+> **Mastermind** — You may expend your **special armor** to **protect** a teammate, or to **push yourself** when you gather information or work on a long-term project. When you use this ability, tick the special armor box on your playbook sheet. If you protect a teammate, this ability negates or reduces the severity of a consequence or harm that your teammate is facing. You don’t have to be present to use this ability—say how you prepared for this situation in the past. If you use this ability to push yourself, you get one of the benefits (+1d, +1 effect, act despite severe harm) but you don’t take 2 stress. Your special armor is restored at the beginning of downtime. *Are you capable of establishing psychic links with your teammates? Do they know or consent to your mental guardianship?*
+> 
+> **Enabler** — Whenever you indulge a vice, you and any teammate that joins you may increase the result of your role by up to +2 or decrease it by up to -2.
+> 
+> **Plugged In**
+You have a finger on the pulse of what's happening around you. Gain +1d when using Consort or Study during a downtime activity to learn about current happenings about town.
+> 
+> **Social Tendrils** — You gain **+1d** to Consort when you gather information on a target for a score. You get **+1d** to the **engagement roll** for that operation. Your network of underworld connections can always be leveraged to gain insight for a job—even when your contacts aren’t aware that they’re helping you. *Are you a master of seductive body language? Can you secrete a compelling pheromome?*
+### The Muscle
 
-**The Blackjack** 4 Action Dots assigned plus a special ability
+#### Short Descriptor of Character
 
-**The Drill** 4 Action Dots assigned plus a special ability
+Medium length description of the character here. Include what kind of activities they normally partake in.
 
-#### Friends, rivals
+When creating your character, you start with +1 Command and +2 Skirmish.
 
-A list of five possible friends or rivals go here, along with descriptions of each. Some possibilities include: A spy, a bounty hunter, a pugalist, a cold killer, an extortionist, a physicker, an assassin, a sentinel, an apothocary, a priestess, a noble, a city clerk, an officer, an inspector, a beggar, a locksmith, a gang leader, a drug dealer, a tavern owner, a sex worker, a jail-bird, an information broker, a servant, an archivist, or a supernatural entitity.
+As the **Muscle**, you gain XP whenever you solve a problem with force or intimidation.
 
-Questions can inlclue how you know the friend, what they’ve done for you, what you do for them, and what kind of relationship you have.
+#### Friends and Rivals
+
+A rookie prizefighter, a grizzled mercenary, a crooked cop, an infamous surgeon, a savvy dockworker.
+
+Questions can include how you know the friend, what they’ve done for you, what you do for them, and what kind of relationship you have.
+
+#### Special Abilities
+> **Battleborn** — You may expend your **special armor** to reduce harm from an attack in combat or to **push yourself** during a fight.
+> When you use this ability, tick the special armor box on your playbook sheet. If you “reduce harm” that means the level of harm you’re facing right now is reduced by one. If you use this ability to push yourself, you get one of the benefits (+1d, +1 effect, act despite severe harm) but you don’t take 2 stress. Your special armor is restored at the beginning of downtime. *Have you perfected drawing on your second wind? Do you have a second pair of adrenal glands? Is your skin scaly or slimy?*
+> 
+> **Bodyguard** — When you **protect** a teammate, take **+1d** to your resistance roll. When you gather info to anticipate possible threats in the current situation, you get **+1 effect**. The protect teamwork maneuver lets you face a consequence for a teammate. If you choose to resist that consequence, this ability gives you +1d to your resistance roll. Also, when you read a situation to gather information about hidden dangers or potential attackers, you get +1 effect—which means more detailed information. *Are you just stocky and hard to knock over? Do your teammates trust you for some particular reason? Are your arms just longer than they should be?*
+> 
+> **Brutal** — When you unleash physical violence, it’s especially frightening. When you **Command** a frightened target, take **+1d**.
+> You instill fear in those around you when you get violent. How they react depends on the person. Some people will flee from you, some will be impressed, some will get violent in return. The GM judges the response of a given NPC. In addition, when you **Command** someone who’s affected by fear (from this ability or otherwise), take +1d to your roll. *Are your features and demeanor terrifying by themselves?Have you sharpened your teeth to fangs?*
+> 
+> **Not to be Trifled With** — You can **push yourself** to do one of the following: **perform a single feat of physical force that verges on the superhuman** OR **engage a small gang on equal footing in close combat.** When you push yourself to activate this ability, you still get one of the normal benefits of pushing yourself (+1d, +1 effect, etc.) in addition to the special ability. If you perform a feat that verges on the superhuman, you might break a metal weapon with your bare hands, tackle a galloping horse, lift a huge weight, etc. If you engage a small gang on equal footing, you don’t suffer reduced effect due to scale against a small gang (up to six people). *Do you have military or police experience with crowd control? Can you sprout a third arm of sinew and steel?*
+> 
+> **Tough as Nails** — Penalties from harm are one level less severe (though level 4 harm is still fatal). With this ability, level 3 harm doesn’t incapacitate you; instead you take -1d to your rolls (as if it were level 2 harm). Level 2 harm affects you as if it were level 1 (less effect). Level 1 harm has no effect on you (but you still write it on your sheet, and must recover to heal it). Record the harm at its original level—for healing purposes, the original harm level applies. *Have you trained for years to ignore the pain? Do you have plating etched with Weird runes implanted beneath your skin?*
+> 
+> **Vigorous** — You recover from harm faster. Permanently fill in one of your healing clock segments. Take **+1d** to healing treatment rolls. Your healing clock becomes a 3-clock, and you get a bonus die when you recover. *Are you naturally quick to get back on your feet?Do your bones and flesh heal suspiciously quickly thanks to Weird enhancements?*
+> 
+> **Weird Fighter** — You may imbue your hands, melee weapons, or tools with Weird electromagnetic energy. You gain **potency** in combat vs. Web entities. *When you imbue yourself with this energy, how do you do it? What does it look like when the energy manifests? Have you always had this gift, or did a neural implant allow you to access it?*
+> 
 
 ## Character Playbook Creation
 
@@ -949,7 +988,7 @@ Questions can inlclue how you know the friend, what they’ve done for you, what
 
 Medium length description of the character here. Include what kind of activities they normally partake in.
 
-**Include the XP triggers for the characters here.** At the end of a session mark XP if you addressed a challenge with: insert a short list of methods or actions here. Examples could include: violence, coersion, knowledge, charm, audacity, calculation, deception, influence, stealth, evasion, technical skill, mayham, tracking, or occult powers.
+**Include the XP triggers for the characters here.** At the end of a session mark XP if you addressed a challenge with: insert a short list of methods or actions here. Examples could include: violence, coercion, knowledge, charm, audacity, calculation, deception, influence, stealth, evasion, technical skill, mayham, tracking, or occult powers.
 
 @TODO tables 51
 
@@ -967,27 +1006,13 @@ Medium length description of the character here. Include what kind of activities
 
 ### Friends, rivals
 
-A list of five possible friends or rivals go here, along with descriptions of each. Some possibilities include: A spy, a bounty hunter, a pugalist, a cold killer, an extortionist, a physicker, an assassin, a sentinel, an apothocary, a priestess, a noble, a city clerk, an officer, an inspector, a beggar, a locksmith, a gang leader, a drug dealer, a tavern owner, a porstitue, a jail-bird, an information broker, a servant, an archivist, or a supernatural entitity.
+A list of five possible friends or rivals go here, along with descriptions of each. Some possibilities include: A spy, a bounty hunter, a pugalist, a cold killer, an extortionist, a physicker, an assassin, a sentinel, an apothocary, a priestess, a noble, a city clerk, an officer, an inspector, a beggar, a locksmith, a gang leader, a drug dealer, a tavern owner, a sex worker, a jail-bird, an information broker, a servant, an archivist, or a supernatural entitity.
 
 Questions can inlclue how you know the friend, what they’ve done for you, what you do for them, and what kind of relationship you have.
 
 ### Special abilities
 
 Choose seven special abilities for your playbook. Here are several examples.
-
-### Battleborn
-
-> You may expend your **special armor** to reduce harm from an attack in combat or to **push yourself** during a fight.
-> When you use this ability, tick the special armor box on your playbook sheet. If you “reduce harm” that means the level of harm you’re facing right now is reduced by one. If you use this ability to push yourself, you get one of the benefits (+1d, +1 effect, act despite severe harm) but you don’t take 2 stress. Your special armor is restored at the beginning of downtime.
-
-### Bodyguard
-
-> When you **protect** a teammate, take **+1d** to your resistance roll. When you gather info to anticipate possible threats in the current situation, you get **+1 effect**.
-> The protect teamwork maneuver lets you face a consequence for a teammate. If you choose to resist that consequence, this ability gives you +1d to your resistance roll. Also, when you read a situation to gather information about hidden dangers or potential attackers, you get +1 effect—which means more detailed information.
-
-### Arcane fighter
-
-> You may imbue your hands, melee weapons, or tools with spirit energy. You gain **potency** in combat vs. the supernatural. When you imbue yourself with arcane energy, how do you do it? What does it look like when the energy manifests?
 
 ### Leader
 
@@ -997,20 +1022,6 @@ Choose seven special abilities for your playbook. Here are several examples.
 ### Mule
 
 > Your load limits are higher: Light - 5. Normal - 7. Heavy - 8. This ability is great if you want to wear heavy armor and pack a heavy weapon without attracting lots of attention. Since your exact gear is determined on-the-fly during an operation, having more load also gives you more options to get creative with when dealing with problems during a score.
-
-### Not to be Trifled With
-
-> You can **push yourself** to do one of the following: *perform a feat of physical force that verges on the superhuman — engage a small gang on equal footing in close combat.* When you push yourself to activate this ability, you still get one of the normal benefits of pushing yourself (+1d, +1 effect, etc.) in addition to the special ability. If you perform a feat that verges on the superhuman, you might break a metal weapon with your bare hands, tackle a galloping horse, lift a huge weight, etc. If you engage a small gang on equal footing, you don’t suffer reduced effect due to scale against a small gang (up to six people).
-
-### Brutal
-
-> When you unleash physical violence, it’s especially frightening. When you **Command** a frightened target, take **+1d**.
-> You instill fear in those around you when you get violent. How they react depends on the person. Some people will flee from you, some will be impressed, some will get violent in return. The GM judges the response of a given NPC. In addition, when you **Command** someone who’s affected by fear (from this ability or otherwise), take +1d to your roll.
-
-### Vigorous
-
-> You recover from harm faster. Permanently fill in one of your healing clock segments. Take **+1d** to healing treatment rolls. Your healing clock becomes a 3-clock, and you get a bonus die when you recover.
-
 ### Sharpshooter
 
 > You can **push yourself** to do one of the following: *make a ranged attack at extreme distance beyond what’s normal for the weapon — unleash a barrage of rapid fire to suppress the enemy.*
@@ -1019,7 +1030,7 @@ Choose seven special abilities for your playbook. Here are several examples.
 
 ### Focused
 
-You may expend your **special armor** to resist a consequence of surprise or mental harm (fear, confusion, losing track of someone) or to **push yourself** for ranged combat or tracking.
+> You may expend your **special armor** to resist a consequence of surprise or mental harm (fear, confusion, losing track of someone) or to **push yourself** for ranged combat or tracking.
 
 > When you use this ability, tick the special armor box on your playbook sheet. If you “resist a consequence” of the appropriate type, you avoid it completely. If you use this ability to push yourself, you get one of the benefits (+1d, +1 effect, act despite severe harm) but you don’t take 2 stress. Your special armor is restored at the beginning of downtime.
 
@@ -1028,12 +1039,6 @@ You may expend your **special armor** to resist a consequence of surprise or men
 When you gather information to discover the location of a target, you get **+1 effect**. When you hide in a prepared position or use camouflage you get **+1d** to rolls to avoid detection.
 
 > A “target” can be a person, a destination, a good ambush spot, an item, etc.
-
-### Tough as nails
-
-Penalties from harm are one level less severe (though level 4 harm is still fatal).
-
-> With this ability, level 3 harm doesn’t incapacitate you; instead you take -1d to your rolls (as if it were level 2 harm). Level 2 harm affects you as if it were level 1 (less effect). Level 1 harm has no effect on you (but you still write it on your sheet, and must recover to heal it). Record the harm at its original level—for healing purposes, the original harm level applies.
 
 ### Vengeful
 
@@ -1156,36 +1161,6 @@ You may expend your **special armor** to resist a consequence from suspicion or 
 You get **+1d** vs. a target with whom you have an intimate relationship.
 
 > This ability isn’t just for social interactions. Any action can get the bonus. “Intimate” is for you and the group to define, it need not exclusively mean romantic intimacy.
-
-### Foresight
-
-Two times per score you can **assist** a teammate without paying stress. Describe how you prepared for this.
-
-> You can narrate an event in the past that helps your teammate now, or you might explain how you expected this situation and planned a helpful contingency that you reveal now.
-
-### Calculating
-
-Due to your careful planning, during downtime, you may give yourself or another crew member **+1 downtime activity**.
-
-> If you forget to use this ability during downtime, you can still activate it during the score and flashback to the previous downtime when the extra activity happened.
-
-### Connected
-
-During downtime, you get **+1 result level** when you **acquire an asset** or **reduce heat**.
-
-> Your array of underworld connections can be leveraged to loan assets, pressure a vendor to give you a better deal, intimidate witnesses, etc.
-
-### Mastermind
-
-You may expend your **special armor** to **protect** a teammate, or to **push yourself** when you gather information or work on a long-term project.
-
-> When you use this ability, tick the special armor box on your playbook sheet. If you protect a teammate, this ability negates or reduces the severity of a consequence or harm that your teammate is facing. You don’t have to be present to use this ability—say how you prepared for this situation in the past. If you use this ability to push yourself, you get one of the benefits (+1d, +1 effect, act despite severe harm) but you don’t take 2 stress. Your special armor is restored at the beginning of downtime.
-
-### Weaving the web
-
-You gain **+1d** to Consort when you gather information on a target for a score. You get **+1d** to the **engagement roll** for that operation.
-
-> Your network of underworld connections can always be leveraged to gain insight for a job—even when your contacts aren’t aware that they’re helping you.
 
 ### Arcane mind
 
