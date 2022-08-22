@@ -10,7 +10,7 @@
 
 ### The Setting
 
-*Moon's Haunted (Working Title)* takes place in the haunted lunar dystopia of **Dianis** in the 22rd century. Originally built as a penal colony for the genetically and cybernetically enhanced, Dianis is now the capital of the **Lunar Salvation State**, the authoritarian government that claims sole power over the remnants of humanity. Ruling with an iron fist, the LSS is empowered by technology developed from the **Carcass of Theia**, the enormous corpse of a long-dead goddess buried deep beneath the Moon's surface. **Earth** has been reduced to a husk-planet by the **Eye of Calamity**, a psychic superweapon that ended the **Terran-Lunar War** and forced the remainder of humanity to emigrate to the Moon. The ruling **United National Party** is bogged down by corruption and run by aging plutocrats, their bodies and minds stretched far past their natural limit by sinister sciences. Inhabitants of Dianis regularly undergo genetic and mechanical modifications to their bodies, with results varying between awe-inspiring and terrifying. While grey-uniformed agents of the **Lunar Defense Forces** patrol the streets meting out their own twisted form of the "law", **ghosts**, **demons**, and **mutants** lurk in the alleys and service tunnels. While explanations for these creatures range from the alien to the divine, they are all undoubtedly connected to the **Web**, a mysterious electro-psychic field that seems to permeate the entire city and originate from the Carcass. While the Web is most commonly used for digital communication and human-machine interface, it is also harnessed for darker aims, aiding in the blending of tissue and circuitry to new and horrifying ends. Though it is *de jure* under the sole control of the LSS, the Web has spawned a number of mysterious anomalies, most notable among which are the **God-Children**, seemingly immortal beings who now walk among the city’s citizens, gathering supplicants and leaving mysteries in their wake.
+*Moon's Haunted (Working Title)* takes place in **Port Rain**, a haunted city on the Moon in the 22nd century. The former site of humanity's first permanent Lunar colony, Port Rain is now an industrial port city under the jurisdiction of the **Lunar Salvation State**, an authoritarian government that claims sole power over the remnants of humanity. Ruling with an iron fist, the LSS is empowered by technology developed from the **Carcass of Theia**, the enormous corpse of a long-dead goddess buried deep beneath the Moon's surface. **Earth** has been reduced to a husk-planet by **The Writhing Nightmare**, a biomechanical superweapon that ended the **Earth-Moon War** and forced much of the remainder of Earth's population to emigrate to the Moon. The ruling **United Lunar Party** is bogged down by corruption and run by aging plutocrats, their bodies and minds stretched far past their natural limit by sinister sciences. Inhabitants of Port Stadius regularly undergo genetic and mechanical modifications to their bodies, with results varying between awe-inspiring and terrifying. While grey-uniformed agents of the **Lunar Defense Forces** patrol the streets meting out their own twisted form of the "law", **ghosts**, **demons**, and **mutants** lurk in alleys and service tunnels. While explanations for these creatures range from the alien to the divine, they are all undoubtedly connected to the **Weirding Field**, a mysterious electro-psychic aura that seems to permeate the entire city and originate from the Carcass. While the Weirding Field is most commonly used for digital communication and human-machine interface, it is also harnessed for darker aims, aiding in the blending of tissue and circuitry to new and horrifying ends. Though it is *de jure* under the sole control of the LSS, the Weirding Field has spawned a number of mysterious anomalies, most notable among which are the **Gods Emergent**, immensely powerful artifical intelligences whose physical forms now walk among the city’s citizens, gathering supplicants and leaving mysteries in their wake.
 
 ### The Players
 
@@ -40,11 +40,11 @@ During a session, the crew of scoundrels works together to choose a score to acc
 
 ### Touchstones
 
-*Katana Zero* by Justin Stander. *Alien* by Ridley Scott. *Warhammer 40K* by Games Workshop. *Magic: the Gathering – New Phyrexia* by Wizard of the Coast. *Annihilation* by Jeff VanderMeer. *The City of Ember* by Jeanne DuPrau. *The Matrix* by the Wachowski Sisters. *Minority Report* by Steven Spielberg. *Snowpiercer* by Bong-Joon Ho. *Bioshock* by 2K Boston. *Neon Genesis Evangelion* by Hideaki Anno. *The Expanse* by James S. A. Corey. *1984* by George Orwell. *Paranoia* by West End Games. *Apex* and *Abyss* by Unleash the Archers. *Doom (2016)* and *Doom Eternal* by Id Software. *Metal Gear Rising: Revengeance* by Platinum Games.
+*Alien* by Ridley Scott. *Warhammer 40K* by Games Workshop. *Magic: the Gathering – New Phyrexia* by Wizard of the Coast. *Annihilation* by Jeff VanderMeer. *The City of Ember* by Jeanne DuPrau. *The Matrix* by the Wachowski Sisters. *Minority Report* by Steven Spielberg. *Snowpiercer* by Bong-Joon Ho. *Bioshock* by 2K Boston. *Neon Genesis Evangelion* by Hideaki Anno. *The Expanse* by James S. A. Corey. *1984* by George Orwell. *Paranoia* by West End Games. *Doom (2016)* and *Doom Eternal* by Id Software. *Metal Gear Rising: Revengeance* by Platinum Games. *Flushed Away* by Aardman Animations.
 
 ### Theme Song
 
-*Haifisch* by Rammstein.
+*It's Only a Paper Moon* by Ella Fitzgerald.
 
 ## The Core System
 
@@ -140,9 +140,9 @@ For details on **Resistance Rolls**, see page 28.
 
 ### Actions
 
-When you **Attune**, you open your mind to the Web.
+When you **Attune**, you open your mind to the Weirding Field.
 
-*You might communicate with a ghost or look through the contents of a Web-connected hard drive. You could try to perceive beyond sight in order to better understand your situation (but **Surveying** might be better).*
+*You might communicate with a ghost or look through the contents of an Weirding Field-connected hard drive. You could try to perceive beyond sight in order to better understand your situation (but **Surveying** might be better).*
 
 When you **Command**, you compel swift obedience.
 
@@ -902,7 +902,7 @@ You don’t need to select specific items now. Review your personal items and th
 The eight basic playbooks are as follows:
 > **The Brain** — Invention and mayhem.
 > 
-> **The Breath** - Stealth and subterfuge.
+> **The Throat** - Stealth and subterfuge.
 > 
 > **The Eye** - Knowledge and the occult.
 > 
@@ -938,7 +938,7 @@ Questions can include how you know the friend, what they’ve done for you, what
 > 
 > **Connected** — During downtime, you get **+1 result level** when you **acquire an asset** or **reduce heat**. Your array of underworld connections can be leveraged to loan assets, pressure a vendor to give you a better deal, intimidate witnesses, etc. *What sort of people or entities owe you favors? Do you have a double life or a sordid past?*
 > 
-> **Foresight** — Two times per score you can **assist** a teammate without paying stress. Describe how you prepared for this. You can narrate an event in the past that helps your teammate now, or you might explain how you expected this situation and planned a helpful contingency that you reveal now. *Do you and any of your teammates share a special bond? Can you tap into the Web to divine the future?*
+> **Foresight** — Two times per score you can **assist** a teammate without paying stress. Describe how you prepared for this. You can narrate an event in the past that helps your teammate now, or you might explain how you expected this situation and planned a helpful contingency that you reveal now. *Do you and any of your teammates share a special bond? Can you push your thoughts into their limbic systems via the Inside?*
 > 
 > **Mastermind** — You may expend your **special armor** to **protect** a teammate, or to **push yourself** when you gather information or work on a long-term project. When you use this ability, tick the special armor box on your playbook sheet. If you protect a teammate, this ability negates or reduces the severity of a consequence or harm that your teammate is facing. You don’t have to be present to use this ability—say how you prepared for this situation in the past. If you use this ability to push yourself, you get one of the benefits (+1d, +1 effect, act despite severe harm) but you don’t take 2 stress. Your special armor is restored at the beginning of downtime. *Are you capable of establishing psychic links with your teammates? Do they know or consent to your mental guardianship?*
 > 
@@ -970,8 +970,8 @@ Questions can include how you know the friend, what they’ve done for you, what
 > 
 > **Bodyguard** — When you **protect** a teammate, take **+1d** to your resistance roll. When you gather info to anticipate possible threats in the current situation, you get **+1 effect**. The protect teamwork maneuver lets you face a consequence for a teammate. If you choose to resist that consequence, this ability gives you +1d to your resistance roll. Also, when you read a situation to gather information about hidden dangers or potential attackers, you get +1 effect—which means more detailed information. *Are you just stocky and hard to knock over? Do your teammates trust you for some particular reason? Are your arms just longer than they should be?*
 > 
-> **Brutal** — When you unleash physical violence, it’s especially frightening. When you **Command** a frightened target, take **+1d**.
-> You instill fear in those around you when you get violent. How they react depends on the person. Some people will flee from you, some will be impressed, some will get violent in return. The GM judges the response of a given NPC. In addition, when you **Command** someone who’s affected by fear (from this ability or otherwise), take +1d to your roll. *Are your features and demeanor terrifying by themselves?Have you sharpened your teeth to fangs?*
+> **Fearsome** — When you unleash physical violence, it’s especially frightening. When you **Command** a frightened target, take **+1d**.
+> You instill fear in those around you when you get violent. How they react depends on the person. Some people will flee from you, some will be impressed, some will get violent in return. The GM judges the response of a given NPC. In addition, when you **Command** someone who’s affected by fear (from this ability or otherwise), take +1d to your roll. *Are your features and demeanor terrifying by themselves? Have you sharpened your teeth to fangs?*
 > 
 > **Not to be Trifled With** — You can **push yourself** to do one of the following: **perform a single feat of physical force that verges on the superhuman** OR **engage a small gang on equal footing in close combat.** When you push yourself to activate this ability, you still get one of the normal benefits of pushing yourself (+1d, +1 effect, etc.) in addition to the special ability. If you perform a feat that verges on the superhuman, you might break a metal weapon with your bare hands, tackle a galloping horse, lift a huge weight, etc. If you engage a small gang on equal footing, you don’t suffer reduced effect due to scale against a small gang (up to six people). *Do you have military or police experience with crowd control? Can you sprout a third arm of sinew and steel?*
 > 
@@ -979,7 +979,7 @@ Questions can include how you know the friend, what they’ve done for you, what
 > 
 > **Vigorous** — You recover from harm faster. Permanently fill in one of your healing clock segments. Take **+1d** to healing treatment rolls. Your healing clock becomes a 3-clock, and you get a bonus die when you recover. *Are you naturally quick to get back on your feet?Do your bones and flesh heal suspiciously quickly thanks to Weird enhancements?*
 > 
-> **Weird Fighter** — You may imbue your hands, melee weapons, or tools with Weird electromagnetic energy. You gain **potency** in combat vs. Web entities. *When you imbue yourself with this energy, how do you do it? What does it look like when the energy manifests? Have you always had this gift, or did a neural implant allow you to access it?*
+> **Weird Fighter** — You may imbue your hands, melee weapons, or tools with Weird electromagnetic energy. You gain **potency** in combat vs. Weird entities. *When you imbue yourself with this energy, how do you do it? What does it look like when the energy manifests? Have you always had this gift, or did a neural implant allow you to access it?*
 > 
 
 ## Character Playbook Creation
@@ -2198,32 +2198,26 @@ A creation or modification may have one or more drawbacks, chosen by the GM.
 ## The World of *Moon's Haunted (Working Title)*
 
 ### A Brief Timeline of Events
-> **July 1969 CE** — Neil Armstrong and Buzz Aldrin of the *Apollo 11* mission become first humans to step foot on the lunar surface.
+> **4.5 billion years BCE** — A goddess is slain in the war between the great divine powers of the cosmos and her enormous corpse is thrown against the surface of Earth, creating an enormous field of debris that eventually coalesces around her body to become the Moon.
+> 
+> **2092 CE** — The Atlantic Security Pact and Eurasian Alliance reach a ceasefire after a decade of war, predicated on the creation of a joint space exploration program and establishment of a jointly governed self-sustaining lunar colony.
+> 
+> **2095 CE** — The first lunar transport, the *St. Joseph Cupertino*,completes its maiden voyage. Construction begins on **Port Rain**, humanity's first permanent lunar settlement, followed by **New Artemis** on the moon's far side.
+> 
+> **2103** — Geological surveying operation below JC Mare Imbrium discovers "unknown biological material of extralunar origin" in the form of a corpse 23 kilometers long, designated the **"Carcass of Theia"**. News of the discovery sends ripples through humanity and erodes faith in religious and scientific institutions alike.
+> 
+> **2105** — Lunar scientists announce the development of dozens of new technologies adapted from the Carcass of Theia, most notably telekinetically-powered gravity manipulators and artifically grown human neural tissue. Also announced is the discovery of the psychic field dubbed the **Inside**, which seems to emanate from the Carcass.
+> 
+> **2108** — The governor of New Artemis, Buckley "Buck" Steele, having undergone significant genetic and technological modification, appoints himself "Eternal Lord Protector of the Lunar Realm". Civil war immediately breaks out, but Steele's clique brutally eliminates their opponents and establishes the authoritarian **Lunar Salvation State**.
+> 
+> **2113** — After five years of saber-rattling, war breaks out between the United Nations of Earth and the Lunar Salvation State. Under the leadership of the increasingly volatile Eternal Lord Protector, Lunar forces deploy **The Writhing Nightmare**, an extremely potent aerosolized biomechanical mutagen, into the Earth's atmosphere. As enormous mutated monsters begin to ravage the Earth's surface, the Earth's surviving population escapes into space, with some arriving in Port Rain as refugees and other electing to stay adrift in space.
+> a
+> **2114** — Eternal Lord Protector Steele is fatally shot by a follower of the recently emerged **Mother of Ghosts**, the first of the immensely powerful psychic entities known as the **Gods Emergent**. In the chaos following his death, the **Lunar Triumverate** seizes control of the Lunar government, forming an alliance between corporate, military, and neo-religious interests. 
 >
-> **August 2026 CE** — Artemis III lunar lander impacts with lunar surface, killing all four crewmembers aboard. US government claims "unprecedented electromagnetic activity." Artemis program permanently scrapped.
-> 
-> **January 2043 CE** — Seawall around New York City fails, flooding Manhattan, hundreds of thousands missing and presumed dead. 
-> 
-> **October 2051 CE** — India, US, Russia, China, UK, Japan, and Israel announce the Final Frontier Program, a new joint lunar program with the eventual goal of a self-sustaing colony in the Kepler Crater. All private space programs within the countries are nationalized and their assets seized.
-> 
-> **April 2068 CE** — FFP research team in Sheffield, UK successfully achieve first self-sustaining nuclear fusion reaction.
-> 
-> **October 2072 CE** — Contruction is completed on the FFP-sponsored Von Braun Station, the first shipbuilding yard in Earth orbit.
-> 
-> **March 2083 CE** — FFP announces development of *Atlantic*-class space carrier, interplanetary shuttle designed for travel between Earth orbit and Lunar surface.
-> 
-> **September 2090 CE** — First *Atlantic*-class space transport, the *NSS St. Joseph Cupertino*, completes its maiden voyage to the moon, transporting 500 people and construction materials for two lunar bases.
+> **2123** — Faced with growing civilian unrest, the Triumverate government rolls out the Five Rivers Program, designed to re-cement their control over the Lunar population. Ghosts begin to appear as electro-psionic imprints of the dead, although their activity is carefully monitored by the Lunar government. Connections between the ghosts and the Fiver Rivers Program are fervently denied.
 >
-> **March 2094 CE** — Dianis, the first permanent human lunar settlement, is established. Population of 41,000, governed jointly by FFP member states, primarily a research and mining station.
->
-> **June 2101 CE** — US comes under criticism for controversial Lunar extradition and rumored torture of environmentalist dissident Helena Diaz. US declares that Dianis is outside UN jurisdiction, sparking international condemnation. FFP member states rally around US decision and begin similar extradition campaigns. Australian news media coins the phrase "Guantana-Moon".
->
-> **November 2101 CE** — ISP announces beginning of joint nuclear program headquartered on Dianis, in blatant violation of UN Outer Space Treaty. United Nations votes to reform into United Nations of Earth, bringing all military forces of member nations under the sole control of the UNSC.
->
-> **February 2102 CE** — All United Nations Security Council's permanent members unanimously vote to dissolve the Outer Space Treaty, leave the UN, and form new International Security Pact, headquartered in Dianis. Rest of FFP member nations likewise leave UN and declare alliegance to ISP.
+> **2128** — The **Ansible**, a device that allows instantaneous communication and unlimited data transfer via the Weirding, is made widely available. Within months, nearly every electronic device has an Ansible attached. Allegations that the Ansible is depenent on artifically grown human neural tissue, so far the only circuitry able to interface with the Weirding, do little to undercut its immediate ubiquity.
 > 
-> **March 2102 CE** — UN Security Council, now headed by Mexico, Germany, Canada, Australian Commonwealth, and United Republic of Korea, announce strict sanctions against ISP member states, resulting in a global economic crisis as prices skyrocket nearly overnight.
-> 
-> **May 2102 CE** — ISP leadership signs into law the *Treaty of Unification*, liquidating all member states' federal governments and placing sole control in the hands of the ISP. Widespread protests against the treaty are brutally crushed by ISP loyalist factions within Earth militaries and police forces.
-> 
-> **June 2103** — Geologic surveying operation below Dianis discovers "unknown biological material of extralunar origin" in the form of a dessicated corpse tens of kilometers long, designated "Theia" by ISP scientists. Announcement of discovery sends ripples through humanity and begins to erode faith in religious institutions, who fail to provide answers to the corpse's origin.
+> **2131** — After the psychic form of the God Emergent **The Spider with One Billion Eyes and One Billion Legs** is downloaded by cultists onto a government server and allowed to access nearly every piece of digital data known to humanity before being killed by another, even more powerful God Emergent, the Lunar Salvation State outlaws all 
+
+### How We Got Here
